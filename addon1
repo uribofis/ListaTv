@@ -2,19 +2,19 @@
  
 <channels>
     <channels_info>
-      <title>[COLOR yellow]EcuaFullTotal[/COLOR]</title>
+      <title>[COLOR yellow]KURT-TV[/COLOR]</title>
       <genre>IPTV</genre>
       <description>Lista de canales IPTV</description>
       <thumbnail>http://1.bp.blogspot.com/-LvMlqDGGi5w/VfHcSKKf-qI/AAAAAAAAEx8/LSns1UE3nIM/s1600/Logo%2BNuevo.jpg</thumbnail>
       <fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
       <date>29.06.2015</date>
-      <credits>Gracias a Ecuafulltotal</credits>
+      <credits>Gracias a KURT-TV</credits>
     </channels_info>
 <channels>
 
  
 <channel>
-      <name>[COLOR cyan][/COLOR][COLOR yellow]                                                            EcuaFullTotal[/COLOR]</name>
+      <name>[COLOR cyan][/COLOR][COLOR yellow]                                                            KURT-TV[/COLOR]</name>
   <thumbnail>http://1.bp.blogspot.com/-LvMlqDGGi5w/VfHcSKKf-qI/AAAAAAAAEx8/LSns1UE3nIM/s1600/Logo%2BNuevo.jpg</thumbnail>
 <fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
 <link>http://ignoreme</link>
