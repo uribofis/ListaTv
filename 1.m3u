@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1, AMC
+GET /mirandatvapp/amc.php?index.m3u8 HTTP/1.1
+User-Agent: Samsung SM-J710MN stagefright/Beyonce/1.1.9 (Linux;Android 7.0)
+Host: 176.126.247.151
+Connection: Keep-Alive
+Accept-Encoding: gzip
