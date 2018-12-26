@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1 user-agent="GatoTVPlayer", La Familia P. Luche (24h)
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/fernanda/fernanda/441.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer", Malcolm in the middle (24h)
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/fernanda/fernanda/448.ts
+
 #EXTINF:-1 user-agent="GatoTVPlayer",AE
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/fernanda/fernanda/284.ts
