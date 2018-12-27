@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1 user-agent="GatoTVPlayer", La Familia P. Luche (24h)
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/dorita/dorita/441.ts
+
+#EXTINF:-1 user-agent="GatoTVPlayer", Malcolm in the middle (24h)
+#EXTVLCOPT:http-user-agent=GatoTVPlayer
+http://micine.club:8080/live/dorita/dorita/448.ts
+
 #EXTINF:-1 user-agent="GatoTVPlayer",AE
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/dorita/dorita/284.ts
@@ -406,10 +415,6 @@ http://micine.club:8080/live/dorita/dorita/331.ts
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/dorita/dorita/332.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", 
-#EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8080/live/dorita/dorita/xxx.ts
-
 #EXTINF:-1 user-agent="GatoTVPlayer", TyC Sports
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/dorita/dorita/334.ts
@@ -474,11 +479,7 @@ http://micine.club:8080/live/dorita/dorita/460.ts
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/dorita/dorita/380.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", La Familia P. Luche (24h)
+#EXTINF:-1 user-agent="GatoTVPlayer",Mexico | Canal 5 
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8080/live/dorita/dorita/441.ts
-
-#EXTINF:-1 user-agent="GatoTVPlayer", Malcolm in the middle (24h)
-#EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8080/live/dorita/dorita/448.ts
+http://micine.club:8080/live/dorita/dorita/371.ts
 
