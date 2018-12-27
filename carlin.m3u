@@ -415,10 +415,6 @@ http://micine.club:8080/live/fernanda/fernanda/331.ts
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/fernanda/fernanda/332.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", 
-#EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8080/live/fernanda/fernanda/xxx.ts
-
 #EXTINF:-1 user-agent="GatoTVPlayer", TyC Sports
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/fernanda/fernanda/334.ts
@@ -483,11 +479,7 @@ http://micine.club:8080/live/fernanda/fernanda/460.ts
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://micine.club:8080/live/fernanda/fernanda/380.ts
 
-#EXTINF:-1 user-agent="GatoTVPlayer", La Familia P. Luche (24h)
+#EXTINF:-1 user-agent="GatoTVPlayer",Mexico | Canal 5 
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8080/live/fernanda/fernanda/441.ts
-
-#EXTINF:-1 user-agent="GatoTVPlayer", Malcolm in the middle (24h)
-#EXTVLCOPT:http-user-agent=GatoTVPlayer
-http://micine.club:8080/live/fernanda/fernanda/448.ts
+http://micine.club:8080/live/fernanda/fernanda/371.ts
 
