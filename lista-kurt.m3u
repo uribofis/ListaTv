@@ -3,4 +3,23 @@
 http://stream.tvpor-internet.net/manifest/05/gol-tv.m3u8
 #EXTINF:-1,GOLTV ECU 2
 http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/6.m3u8
+#EXTINF:-1,DIRECTV SPORTS
+http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/10.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/441.m3u8
+#EXTINF:-1,FOX
+http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/367.m3u8
+#EXTINF:-1,HBO
+http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/289.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/408.m3u8
+#EXTINF:-1,DISCOVERY H&H
+http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/405.m3u8
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
 
