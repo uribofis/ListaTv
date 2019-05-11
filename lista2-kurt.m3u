@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,user-agent=“MiCinePlayer”,A&E
-#EXTVLCOPT:http-user-agent=MiCinePlayer 
+#EXTVLCOPT:http-user-agent=MiCinePlayer
 http://micine.club/live/camp/camp1/2084.ts
 
 #EXTINF:-1,user-agent=“MiCinePlayer”,AMC
-#EXTVLCOPT:http-user-agent=MiCinePlayer 
+#EXTVLCOPT:http-user-agent=MiCinePlayer
 http://micine.club/live/camp/camp1/2081.ts
 
 #EXTINF:-1, user-agent=“MiCinePlayer”, Axn
