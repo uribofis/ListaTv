@@ -1,0 +1,101 @@
+<body>
+ <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+ <div class="container">
+ <a class="navbar-brand" href="http://tvpor-internet.net/"><img src="http://tvpor-internet.net/theme/img/woot.png"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarColor01">
+    <ul class="navbar-nav mr-auto">
+	
+		<li class="nav-item">
+        <a class="nav-link" href="http://tvpor-internet.net/">Lista Partidos <span class="sr-only"></span></a>
+      </li>
+	  <li class="nav-item active">
+        <a class="nav-link" href="http://tvpor-internet.net/channels">Canales </a>
+      </li>
+	       <li class="nav-item">
+        <a class="nav-link" href="http://tvpor-internet.net/aviso">Aviso</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="http://tvpor-internet.net/reportar">Reportar canal</a>
+      </li>
+     <li class="nav-item">
+        <a class="nav-link" rel="nofollow" href="http://tvpor-internet.net/instrucciones">¿Cómo ver los canales?</a>
+      </li>
+      
+      
+      
+      <li class="nav-item" verticxal-align="center">
+          
+   
+
+      </li>
+  
+    </ul>
+	<img src="http://widgets.amung.us/classictab/02/250-bottom.png">
+  </div>
+ </div>
+</nav> <br>
+    
+    
+ <style type="text/css">
+ 
+
+
+
+.jumbotron {
+    text-align: center;   
+}
+
+
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: -115px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+ </style>
+   <script type="text/javascript">
+  function go(loc) {
+    document.getElementById('changecanal').src = loc;
+  }
+  </script>
+<div class="container theme-showcase" role="main">
+
+ <!-- comment
+<button type="button" class="btn btn-outline-warning" name="canalSelection" type="radio" onclick="go('https://www.youtube.com/embed/3y-NhSpraVs')">➤ OPCION 1</button> -->
+<button type="button" class="btn btn-outline-warning" name="canalSelection">➤ Tottenham VS Everton // Real Sociedad VS Real Madrid</button>
+
+<div class="jumbotron">
+           
+  <div class="video-container">
+    
+     <div style="position:relative; padding-bottom:56.25%; overflow:hidden;">
+  <script type="text/javascript">id='50529'; width='640'; height='360';</script><script type="text/javascript" src="https://embed.telerium.tv/embed.js"></script><iframe allowfullscreen="" width="640" height="360" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" src="//telerium.tv/embed/50529.html" __idm_id__="908070913"></iframe>
+        </div>
+        
+ </div> 
+ <br>
+ 
+  
+</div>
+
+<hr>
+<footer><p align="center">© Tv Por Internet <span class="text-info">Hecho con ❤</span></p></footer>
+
+
+
+
+</div></body>
