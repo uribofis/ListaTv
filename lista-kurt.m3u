@@ -1,33 +1,27 @@
 #EXTM3U
 #EXTINF:-1,GOLTV ECU
-http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/6.m3u8
+http://tvecuador.xyz:25461/live/tvecuador/qw12mjMjIiL/6.m3u8
 #EXTINF:-1,GOLTV ECU OP2
 http://stream.tvpor-internet.net/manifest/05/gol-tv.m3u8
 
 #EXTINF:-1,DIRECTV SPORTS
-http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/10.m3u8
+http://tvecuador.xyz:25461/live/tvecuador/qw12mjMjIiL/10.m3u8
 
 #EXTINF:-1,CARTOON NETWORK
-http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/441.m3u8
+http://tvecuador.xyz:25461/live/tvecuador/qw12mjMjIiL/441.m3u8
 
 #EXTINF:-1,FOX
-http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/367.m3u8
+http://tvecuador.xyz:25461/live/tvecuador/qw12mjMjIiL/367.m3u8
 #EXTINF:-1,FOX OP2
 http://stream.tvpor-internet.net/manifest/02/f0x.m3u8
 
 #EXTINF:-1,HBO
-http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/289.m3u8
+http://tvecuador.xyz:25461/live/tvecuador/qw12mjMjIiL/289.m3u8
 
 #EXTINF:-1,DISCOVERY CHANNEL
-http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/408.m3u8
+http://tvecuador.xyz:25461/live/tvecuador/qw12mjMjIiL/408.m3u8
 
 #EXTINF:-1,DISCOVERY H&H
-http://tvecuador.xyz:25461/live/tvecuador/appq12usi39kjQ/405.m3u8
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+http://tvecuador.xyz:25461/live/tvecuador/qw12mjMjIiL/405.m3u8
+
 
