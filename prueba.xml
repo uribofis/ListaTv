@@ -1,101 +1,52 @@
-<body>
- <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
- <div class="container">
- <a class="navbar-brand" href="http://tvpor-internet.net/"><img src="http://tvpor-internet.net/theme/img/woot.png"></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+<div class="player_div" align="center">
+            <span>
+<!-- EMBED -->
 
-  <div class="collapse navbar-collapse" id="navbarColor01">
-    <ul class="navbar-nav mr-auto">
-	
-		<li class="nav-item">
-        <a class="nav-link" href="http://tvpor-internet.net/">Lista Partidos <span class="sr-only"></span></a>
-      </li>
-	  <li class="nav-item active">
-        <a class="nav-link" href="http://tvpor-internet.net/channels">Canales </a>
-      </li>
-	       <li class="nav-item">
-        <a class="nav-link" href="http://tvpor-internet.net/aviso">Aviso</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="http://tvpor-internet.net/reportar">Reportar canal</a>
-      </li>
-     <li class="nav-item">
-        <a class="nav-link" rel="nofollow" href="http://tvpor-internet.net/instrucciones">¿Cómo ver los canales?</a>
-      </li>
-      
-      
-      
-      <li class="nav-item" verticxal-align="center">
-          
-   
+<iframe src="https://soloveo.com/udn.php" width="100%" height="400" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;" __idm_id__="886487041"></iframe>
 
-      </li>
-  
-    </ul>
-	<img src="http://widgets.amung.us/classictab/02/250-bottom.png">
+<!--<script src="http://www.tvenvivomas.com/js/clappr.js"></script>
+<div id="player"></div>
+<script>
+	var player = new Clappr.Player({
+	source: "https://ssh101.com/m3u8/dyn/deptdnmxvall/index.m3u8",
+	parentId: '#player',
+	autoPlay: 'true',
+	hlsjsConfig: {liveSyncDuration: 60},
+        disableVideoTagContextMenu: 'true',
+	mediacontrol: {seekbar:"#00f5ff", buttons: "#00f5ff"},
+	width: '700px',
+	height: '400px' });
+</script>
+http://54.39.52.89:25461/live/cablegratis/fulltelevisionhdliesmiperr/1.m3u8-->
+<div id="sse50">
+  <div id="sses50">
+    <ul>
+<li class="active"><a href="javascript:document.location.reload();" id="enlace"><span class="fa fa-refresh fa-spin"> </span> Actualizar</a></li>
+<li"><a href="../reproductor/tdn.php"> TDN</a>
+    </li"></ul>
   </div>
- </div>
-</nav> <br>
-    
-    
- <style type="text/css">
- 
-
-
-
-.jumbotron {
-    text-align: center;   
-}
-
-
-
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: -115px;
-    height: 0;
-    overflow: hidden;
-}
-
-.video-container iframe {
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
- </style>
-   <script type="text/javascript">
-  function go(loc) {
-    document.getElementById('changecanal').src = loc;
-  }
-  </script>
-<div class="container theme-showcase" role="main">
-
- <!-- comment
-<button type="button" class="btn btn-outline-warning" name="canalSelection" type="radio" onclick="go('https://www.youtube.com/embed/3y-NhSpraVs')">➤ OPCION 1</button> -->
-<button type="button" class="btn btn-outline-warning" name="canalSelection">➤ Tottenham VS Everton // Real Sociedad VS Real Madrid</button>
-
-<div class="jumbotron">
-           
-  <div class="video-container">
-    
-     <div style="position:relative; padding-bottom:56.25%; overflow:hidden;">
-  <script type="text/javascript">id='50529'; width='640'; height='360';</script><script type="text/javascript" src="https://embed.telerium.tv/embed.js"></script><iframe allowfullscreen="" width="640" height="360" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" src="//telerium.tv/embed/50529.html" __idm_id__="908070913"></iframe>
-        </div>
-        
- </div> 
- <br>
- 
-  
 </div>
+<!-- EMBED END -->
 
-<hr>
-<footer><p align="center">© Tv Por Internet <span class="text-info">Hecho con ❤</span></p></footer>
+<script type="text/javascript" src="http://www.pirlotvlive.net/js/anuncio1.js"></script><!--Anuncio-4--><div style="position:fixed; top:1%; width:1px; height:1px; z-index:1; margin-left:170px; margin-top:20px;"><div id="floatlayer1" style="position: absolute; top: 0px; left: 0px; height: 0px; width: 300px;height:20px;"><div style="float:left;position:absolute;margin-left:50px;margin-top:20px;display:block;z-index:10000;" id="imgcx2"></div><table border="0"><tbody><tr><td><div id="1000358877"></div>
+<script>
+window.smrtSB=window.smrtSB||{sections:[]},window.smrtSB.sections.push({s:1000358877,w:300,h:250,c:3, blank: false,cross: true}),window.smrtSB.s||(window.smrtSB.s=document.createElement("script"),window.smrtSB.s.src="//xofpm.tarjetarojatv.tv/js/"+btoa(37*Math.round((899999*Math.random()+1e5)/37))+".js",window.smrtSB.s.async=!0,document.head.appendChild(window.smrtSB.s));
+</script> <div style="float: left; left: 240px; position: relative; top: -135px; z-index: 9999;"> <span class="jbtn" onmouseover="jQuery(this).hide('fast');jQuery('#asd1').show('slow')"><img onmouseup="document.getElementById('floatlayer1').style.display='none'" src="http://2.bp.blogspot.com/-5R4-untbqRI/UWRlr7w7xSI/AAAAAAAAAA8/6cXYjoRp7A0/s1600/closeButton-x-y.gif"></span> </div> <div id="asd1" style="display: none; float: left; left: 240px; position: relative; top: -240px; z-index: 9999;"> <span class="jbtn" onclick="jQuery(this).parent().parent().remove();"><img onmouseup="document.getElementById('floatlayer1').style.display='none'" src="http://2.bp.blogspot.com/-5R4-untbqRI/UWRlr7w7xSI/AAAAAAAAAA8/6cXYjoRp7A0/s1600/closeButton-x-y.gif"></span> </div></td></tr></tbody></table></div></div> 
 
+<div id="floatLayer1">
+<a href="javascript:closeAd();" style="position: absolute; width: 09px; height: 09px; z-index: 1; left: 10px; top: 80px;" id="layer1"><span onmouseup="document.getElementById('floatLayer1').style.display='none'"> <button onclick="enableMute()" alt="close" style="border:2px solid white; background-color: transparent; color: #fff;">www.rojadirecta.global</button></span></a>
+</div>
+<script>
+var vid = document.getElementById("playerDIV");
 
-
-
-</div></body>
+function enableMute() { 
+    vid.muted = false;
+}
+</script>
+<script>
+function onload()
+{}
+ var player = videojs('playerDIV');
+ player.play();
+</script>
+</span></div>
