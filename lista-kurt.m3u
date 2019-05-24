@@ -1,30 +1,42 @@
 #EXTM3U
+
 #EXTINF:-1,EL CANAL DEL FUTBOL
 http://wowzaprod259-i.akamaihd.net/hls/live/802704/916abee9_1_2728/chunklist.m3u8
-
-#EXTINF:-1,GOLTV ECU
-http://tvecuador.xyz:25461/live/tvecuador/qyquahai979/6.m3u8
-#EXTINF:-1,GOLTV ECU OP2
-http://stream.tvpor-internet.net/manifest/05/gol-tv.m3u8
-
-#EXTINF:-1,DIRECTV SPORTS
-http://tvecuador.xyz:25461/live/tvecuador/qyquahai979/10.m3u8
-
-#EXTINF:-1,CARTOON NETWORK
-http://tvecuador.xyz:25461/live/tvecuador/qyquahai979/441.m3u8
-
-#EXTINF:-1,FOX
-http://tvecuador.xyz:25461/live/tvecuador/qyquahai979/367.m3u8
-#EXTINF:-1,FOX OP2
-http://stream.tvpor-internet.net/manifest/02/f0x.m3u8
-
-#EXTINF:-1,HBO
-http://tvecuador.xyz:25461/live/tvecuador/qyquahai979/289.m3u8
-
-#EXTINF:-1,DISCOVERY CHANNEL
-http://tvecuador.xyz:25461/live/tvecuador/qyquahai979/408.m3u8
-
-#EXTINF:-1,DISCOVERY H&H
-http://tvecuador.xyz:25461/live/tvecuador/qyquahai979/405.m3u8
-
-
+#EXTINF:-1,Ecuador | Asomavision
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/14
+#EXTINF:-1,Ecuador | Canal Uno
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/13
+#EXTINF:-1,Ecuador | CNT Sports
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/11
+#EXTINF:-1,Ecuador | Directv Sports
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/10
+#EXTINF:-1,Ecuador | Ecuador TV
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/9
+#EXTINF:-1,Ecuador | Ecuavisa
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/8
+#EXTINF:-1,Ecuador | Gamavision
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/7
+#EXTINF:-1,Ecuador | Gol TV
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/6
+#EXTINF:-1,Ecuador | Oromar
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/5
+#EXTINF:-1,Ecuador | RTS
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/4
+#EXTINF:-1,Ecuador | TC Television
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/3
+#EXTINF:-1,Ecuador | Teleamazonas
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/2
+#EXTINF:-1,Ecuador | Televicentro TVC
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/1
+#EXTINF:-1,Ecuador | TVC
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/12
+#EXTINF:-1,Latinos | Fox
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/367
+#EXTINF:-1,Latinos | Cartoon Network
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/441
+#EXTINF:-1,Latinos | HBO
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/289
+#EXTINF:-1,Latinos | Discovery Channel
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/408
+#EXTINF:-1,Latinos | Discovery Home and Health
+http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/405
