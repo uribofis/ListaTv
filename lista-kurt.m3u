@@ -1,50 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1,EL CANAL DEL FUTBOL
-http://wowzaprod259-i.akamaihd.net/hls/live/802704/916abee9_1_2728/chunklist.m3u8
-#EXTINF:-1,Ecuador | Asomavision
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/14
-#EXTINF:-1,Ecuador | Canal Uno
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/13
-#EXTINF:-1,Ecuador | CNT Sports
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/11
-#EXTINF:-1,Ecuador | Directv Sports
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/10
-#EXTINF:-1,Ecuador | Ecuador TV
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/9
-#EXTINF:-1,Ecuador | Ecuavisa
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/8
-#EXTINF:-1,Ecuador | Gamavision
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/7
-#EXTINF:-1,Ecuador | Gol TV
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/6
-#EXTINF:-1,Ecuador | Oromar
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/5
-#EXTINF:-1,Ecuador | RTS
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/4
-#EXTINF:-1,Ecuador | TC Television
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/3
-#EXTINF:-1,Ecuador | Teleamazonas
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/2
-#EXTINF:-1,Ecuador | Televicentro TVC
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/1
-#EXTINF:-1,Ecuador | TVC
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/12
-#EXTINF:-1,Latinos | Fox
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/367
-#EXTINF:-1,Latinos | Cartoon Network
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/441
-#EXTINF:-1,Latinos | HBO
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/289
-#EXTINF:-1,Latinos | Discovery Channel
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/408
-#EXTINF:-1,Latinos | Discovery Home and Health
-http://tvecuador.xyz:25461/tvecuadorapp/bnvmk920/405
-
 #EXTINF:-1,Hbo2 (dual audio)
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1,CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1,EL CANAL DEL FUTBOL
+http://wowzaprod259-i.akamaihd.net/hls/live/802704/916abee9_1_2728/chunklist.m3u8
+
+#EXTINF:-1,CANAL 5 MX
+http://network-star.com:25461/live/premiumbudtv07/1234/20337.m3u8
+#EXTINF:-1,MTV
+http://network-star.com:25461/live/premiumbudtv07/1234/503.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://network-star.com:25461/live/premiumbudtv07/1234/551.m3u8
+#EXTINF:-1,FOX
+http://network-star.com:25461/live/premiumbudtv07/1234/533.m3u8
+#EXTINF:-1,AMC
+http://network-star.com:25461/live/premiumbudtv07/1234/560.m3u8
+#EXTINF:-1,FX
+http://network-star.com:25461/live/premiumbudtv07/1234/524.m3u8
+#EXTINF:-1,SPACE
+http://network-star.com:25461/live/premiumbudtv07/1234/484.m3u8
+#EXTINF:-1,TNT
+http://network-star.com:25461/live/premiumbudtv07/1234/471.m3u8
+#EXTINF:-1,HBO
+http://network-star.com:25461/live/premiumbudtv07/1234/519.m3u8
+#EXTINF:-1,UNIVISION DEPORTES
+http://network-star.com:25461/live/premiumbudtv07/1234/463.m3u8
+#EXTINF:-1,TELEMUNDO
+http://network-star.com:25461/live/premiumbudtv07/1234/2492.m3u8
+#EXTINF:-1,UNIVISION
+http://network-star.com/live/premiumbudtv07/1234/464.m3u8
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
+
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
