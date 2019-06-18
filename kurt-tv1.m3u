@@ -4,12 +4,11 @@
 #EXTVLCOPT:http-user-agent=MEGAPLAYER
 http://23.237.36.170:8000/SABADO/BOX/136
 
-#EXTINF:-1 user-agent=“MEGAPLAYER”,las estrellas hd
+#EXTINF:-1,las estrellas hd
 #EXTVLCOPT:http-user-agent=MEGAPLAYER
 http://23.237.36.170:8000/SABADO/BOX/189
 
 #EXTINF:-1, user-agent=“MEGAPLAYER”canal 5
-#EXTVLCOPT:http-user-agent=MEGAPLAYER
 http://23.237.36.170:8000/SABADO/BOX/191
 
 #EXTINF:-1 user-agent=“MEGAPLAYER”,azteca 7
