@@ -1,4 +1,4 @@
-#EXTVLCOPT:http-user-agent=mundoappec/1.2
+#EXTVLCOPT:HTTP/1.1 User-Agent: mundoappec/1.2
 #EXTM3U
 #EXTINF:-1,Ecuador | Gol TV
 http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/6
