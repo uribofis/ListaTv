@@ -1,39 +1,197 @@
 #EXTM3U
-#EXTINF:-1,Ecuador | Gol TV
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/6
-#EXTINF:-1,Ecuador | Asomavision
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/14
-#EXTINF:-1,Ecuador | Canal Uno
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/13
-#EXTINF:-1,Ecuador | CNT Sports
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/11
-#EXTINF:-1,Ecuador | Directv Sports
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/10
-#EXTINF:-1,Ecuador | Ecuador TV
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/9
-#EXTINF:-1,Ecuador | Ecuavisa
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/8
-#EXTINF:-1,Ecuador | Gamavision
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/7
-#EXTINF:-1,Ecuador | Oromar
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/5
-#EXTINF:-1,Ecuador | RTS
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/4
-#EXTINF:-1,Ecuador | TC Television
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/3
-#EXTINF:-1,Ecuador | Teleamazonas
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/2
-#EXTINF:-1,Ecuador | Televicentro TVC
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/1
-#EXTINF:-1,Ecuador | TVC
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/12
-#EXTINF:-1,Latinos | Cartoon Network
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/441
-#EXTINF:-1,Latinos | Fox
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/367
-#EXTINF:-1,Latinos | HBO
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/289
-#EXTINF:-1,Latinos | Discovery Channel
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/408
-#EXTINF:-1,Latinos | Discovery Home and Health
-http://tvecuador.xyz:25461/tvecuador/Mnajaiw92/405
+#EXTINF:-1,A&E HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11296.m3u8
+#EXTINF:-1,A3 Series HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11278.m3u8
+#EXTINF:-1,AMC HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11348.m3u8
+#EXTINF:-1,AXN HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11320.m3u8
+#EXTINF:-1,Cinecanal HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11309.m3u8
+#EXTINF:-1,Cinemax HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11347.m3u8
+#EXTINF:-1,Comedy Central HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11283.m3u8
+#EXTINF:-1,De Pelicula HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11310.m3u8
+#EXTINF:-1,Distrito Comedia HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11307.m3u8
+#EXTINF:-1,E! HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11319.m3u8
+#EXTINF:-1,Europa Europa HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11312.m3u8
+#EXTINF:-1,Film And Arts HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11262.m3u8
+#EXTINF:-1,Fox HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11318.m3u8
+#EXTINF:-1,Fox Life HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11306.m3u8
+#EXTINF:-1,Fox Premium Action HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11373.m3u8
+#EXTINF:-1,Fox Premium Cinema HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11372.m3u8
+#EXTINF:-1,Fox Premium Classics HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11371.m3u8
+#EXTINF:-1,Fox Premium Movies HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11370.m3u8
+#EXTINF:-1,Fox Premium Series HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11369.m3u8
+#EXTINF:-1,FX HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11281.m3u8
+#EXTINF:-1,FX HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17038.m3u8
+#EXTINF:-1,FXM HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11346.m3u8
+#EXTINF:-1,Golden HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11345.m3u8
+#EXTINF:-1,Golden Edge HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11344.m3u8
+#EXTINF:-1,Life Time HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11289.m3u8
+#EXTINF:-1,MAS CHIC HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11394.m3u8
+#EXTINF:-1,Multimedios HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11400.m3u8
+#EXTINF:-1,Multimedios Plus HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11279.m3u8
+#EXTINF:-1,Paramount HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11328.m3u8
+#EXTINF:-1,Sony HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11292.m3u8
+#EXTINF:-1,Space HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11317.m3u8
+#EXTINF:-1,Studio Universal HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11338.m3u8
+#EXTINF:-1,Sundance HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11299.m3u8
+#EXTINF:-1,Syfy HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11349.m3u8
+#EXTINF:-1,TCM HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11311.m3u8
+#EXTINF:-1,TNT HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11323.m3u8
+#EXTINF:-1,TNT Series HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11322.m3u8
+#EXTINF:-1,TruTV HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11392.m3u8
+#EXTINF:-1,Universal Channel HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11315.m3u8
+#EXTINF:-1,Warner HQ
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11321.m3u8
+#EXTINF:-1,A&E
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17056.m3u8
+#EXTINF:-1,AMC
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17030.m3u8
+#EXTINF:-1,Cine Latino
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17029.m3u8
+#EXTINF:-1,Cinecanal
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17028.m3u8
+#EXTINF:-1,Cinemax
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17027.m3u8
+#EXTINF:-1,Comedy Central
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17054.m3u8
+#EXTINF:-1,De Pelicula
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/16825.m3u8
+#EXTINF:-1,Distrito Comedia
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/16824.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17048.m3u8
+#EXTINF:-1,Europa Europa
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17047.m3u8
+#EXTINF:-1,Film&Arts
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17025.m3u8
+#EXTINF:-1,Film Zone
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17026.m3u8
+#EXTINF:-1,Fox
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17046.m3u8
+#EXTINF:-1,Fox Cinema
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17045.m3u8
+#EXTINF:-1,Fox Classic
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17044.m3u8
+#EXTINF:-1,Fox Comedy
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17043.m3u8
+#EXTINF:-1,Fox Family
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17042.m3u8
+#EXTINF:-1,Fox Life
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17041.m3u8
+#EXTINF:-1,Fox Premium Action
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17040.m3u8
+#EXTINF:-1,Fox Premium Series
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17039.m3u8
+#EXTINF:-1,FXM
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17024.m3u8
+#EXTINF:-1,Glitz
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/16821.m3u8
+#EXTINF:-1,Golden Edge
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17023.m3u8
+#EXTINF:-1,Golden Plus
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17022.m3u8
+#EXTINF:-1,Golden Premier
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17021.m3u8
+#EXTINF:-1,HBO
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17020.m3u8
+#EXTINF:-1,HBO 2
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17019.m3u8
+#EXTINF:-1,HBO Family
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17018.m3u8
+#EXTINF:-1,HBO Plus
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17016.m3u8
+#EXTINF:-1,HBO Signature
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/14293.m3u8
+#EXTINF:-1,Lifetime
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/16993.m3u8
+#EXTINF:-1,Mas Chic
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/16818.m3u8
+#EXTINF:-1,Max
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17015.m3u8
+#EXTINF:-1,MAX Prime
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17014.m3u8
+#EXTINF:-1,MultiPremier
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17013.m3u8
+#EXTINF:-1,Paramount Channel
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17012.m3u8
+#EXTINF:-1,Sony
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17011.m3u8
+#EXTINF:-1,Sony Sur
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17010.m3u8
+#EXTINF:-1,Space
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17009.m3u8
+#EXTINF:-1,STAR TVE
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/16898.m3u8
+#EXTINF:-1,Studio Universal
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17008.m3u8
+#EXTINF:-1,SYFY
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17036.m3u8
+#EXTINF:-1,TBS
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17007.m3u8
+#EXTINF:-1,TCM
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17035.m3u8
+#EXTINF:-1,TNT
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17006.m3u8
+#EXTINF:-1,TNT SERIES
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17005.m3u8
+#EXTINF:-1,TRU TV
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17031.m3u8
+#EXTINF:-1,TVE
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/16896.m3u8
+#EXTINF:-1,Ultra Cine
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11520.m3u8
+#EXTINF:-1,Ultra Clasico
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11519.m3u8
+#EXTINF:-1,Ultra Documentales
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11518.m3u8
+#EXTINF:-1,Ultra Fiesta
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11517.m3u8
+#EXTINF:-1,Ultra Film
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11516.m3u8
+#EXTINF:-1,Ultra Kidz
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11515.m3u8
+#EXTINF:-1,Ultra Luna
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11514.m3u8
+#EXTINF:-1,Ultra Macho
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11513.m3u8
+#EXTINF:-1,Ultra Mex
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/11512.m3u8
+#EXTINF:-1,Warner Channel
+http://iptv.wtf:8080/live/vwdpovua/Mb276Tawu4/17003.m3u8
