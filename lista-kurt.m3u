@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Hbo2 (dual audio)
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,CDO Premium
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-
 #EXTINF:-1,EL CANAL DEL FUTBOL
 http://wowzaprod259-i.akamaihd.net/hls/live/802704/916abee9_1_2728/chunklist.m3u8
 
@@ -41,8 +36,6 @@ http://network-star.com/live/premiumbudtv07/1234/464.m3u8
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
-
-
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
