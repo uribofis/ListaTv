@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1,Canal 5 Mx
+http://192.240.120.58/livestream/canal5mx.m3u8?token=xYGRO0nEeClVU4m2kJkbGw&expires=1564126434&ref=http://cablegratis.tv/canal-en-vivo/canal-cinco
+#EXTINF:-1,Goltv
+http://192.240.120.58/livestream/goltv.m3u8?token=D5gufeEl1uh0MoQAwmOhaA&expires=1564126532
+#EXTINF:-1,Fox
+http://23.237.66.34/livestream/fox.m3u8?token=aKN6wk_8dXxyNJoP9Q-tjw&expires=1564126593
+#EXTINF:-1,Warner
+http://23.237.80.42/livestream/warner.m3u8?token=dyc7rO_iMTRAA2pbZ9PD2Q&expires=1564126625
+#EXTINF:-1,AE
+http://23.237.66.34/livestream/ae.m3u8?token=tXFpCq7ztYZXMDxIhd2wkw&expires=1564126696
