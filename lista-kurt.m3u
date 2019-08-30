@@ -1,56 +1,307 @@
 #EXTM3U
 
-#EXTINF:-1,EL CANAL DEL FUTBOL
-http://wowzaprod259-i.akamaihd.net/hls/live/802704/916abee9_1_2728/chunklist.m3u8
+#EXTINF:-1, VIVA CRISTO TV MUSIC
+http://ss6.domint.net:1946/vct_str/vctv/chunklist_w1751298307.m3u8
 
-#EXTINF:-1,CANAL 5 MX
-http://network-star.com:25461/live/premiumbudtv04/1234/20337.m3u8
-#EXTINF:-1,MTV
-http://network-star.com:25461/live/premiumbudtv04/1234/503.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://network-star.com:25461/live/premiumbudtv04/1234/551.m3u8
-#EXTINF:-1,FOX
-http://network-star.com:25461/live/premiumbudtv04/1234/533.m3u8
-#EXTINF:-1,AMC
-http://network-star.com:25461/live/premiumbudtv04/1234/560.m3u8
-#EXTINF:-1,FX
-http://network-star.com:25461/live/premiumbudtv04/1234/524.m3u8
-#EXTINF:-1,SPACE
-http://network-star.com:25461/live/premiumbudtv04/1234/484.m3u8
-#EXTINF:-1,TNT
-http://network-star.com:25461/live/premiumbudtv04/1234/471.m3u8
-#EXTINF:-1,HBO
-http://network-star.com:25461/live/premiumbudtv04/1234/519.m3u8
-#EXTINF:-1,UNIVISION DEPORTES
-http://network-star.com:25461/live/premiumbudtv04/1234/463.m3u8
-#EXTINF:-1,TELEMUNDO
-http://network-star.com:25461/live/premiumbudtv04/1234/2492.m3u8
+#EXTINF:-1, ESPN
+https://linearhlsls2-i.akamaihd.net/hls/live/463004/n17/800.m3u8
+
+#EXTINF:-1, ESPN HD
+http://linearhlsls2-i.akamaihd.net/hls/live/463004/n53/1200.m3u8
+
+#EXTINF:-1,Identidad peruana TV PERU
+http://cdnh15.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1, BH TV PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u
+
+#EXTINF:-1,Radiom2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/UKQ5MY" group-title="PERU",TOP LATINO | SD
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/playlist.m3u8
+
+#EXTINF:-1,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1,TV Peru
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1, Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1,Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1,VIDA DURA
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+
+#EXTINF:-1, 24/7 Noticias | SD
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
+#EXTINF:-1, CDF PREMIUN
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist.m3u8
+
+#EXTINF:-1, Tec TV | SD
+http://tec_tv.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/tec_tv/manifest.m3u8
+
+#EXTINF:-1, Canal 10 Cordoba | HD
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/59e4c1ec_1_1500000/chunklist.m3u8
+
+#EXTINF:-1, Multivision Federal | SD | Salta
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1202004290.m3u8
+
+#EXTINF:-1, Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1, Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1, Telecaribe | HD
+http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
+
+#EXTINF:-1, Trece | HD
+https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/playlist.m3u8
+
+#EXTINF:-1, Oromar TV | SD
+http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1, UCSG | SD
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1, Hechos | SD
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:-1, FOX SPORTS
+http://38.18.238.99:2095/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1, FOX SPORTS 2
+http://38.18.238.99:2095/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1, FOX SPORTS 3
+http://38.18.238.99:2095/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1, AZTECA 7
+http://23.139.96.12:2095/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORT
+http://38.18.238.99:2095/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1,ESPN
+http://38.18.238.99:2095/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1,ESPN2
+http://38.18.238.99:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1,ESPN3
+http://38.18.238.99:2095/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1,CLARO SPORT
+http://38.18.238.99:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
 #EXTINF:-1,UNIVISION
-http://network-star.com/live/premiumbudtv07/1234/464.m3u8
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+http://38.18.238.99:2095/encoder78/evento12/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
+#EXTINF:-1, TNT
+http://38.18.238.99:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
+#EXTINF:-1, D THEATER
+http://38.18.238.99:2095/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/chunks.m3u8
 
+#EXTINF:-1, DISCOVERY
+http://38.18.238.99:2095/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
+#EXTINF:-1, DISCOVERY LATINOAMERICA
+http://38.18.238.99:2095/215DiscoveryHHLatinoAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
+#EXTINF:-1, DISCOVERY CHANNEL
+http://38.18.238.99:2095/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
+#EXTINF:-1, COMEDY
+http://38.18.238.99:2095/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
+#EXTINF:-1, CARTOON NETWORK
+http://38.18.238.99:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
+#EXTINF:-1, D WORLD
+http://38.18.238.99:2095/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
 
+#EXTINF:-1, DISNEY CHANNEL
+http://38.18.238.99:2095/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
+#EXTINF:-1, DISNEY XD
+http://38.18.238.99:2095/304DisneyXDNorte/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
+#EXTINF:-1, CANAL FOX
+http://38.18.238.99:2095/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, FOX ACTION
+http://38.18.238.99:2095/662foxAction/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, HBO
+http://38.18.238.99:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1, HBO PLUS
+http://38.18.238.99:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, HISTORY
+http://38.18.238.99:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, H2
+http://38.18.238.99:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1, ID
+http://38.18.238.99:2095/216I.D/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, MAX PRIME
+http://38.18.238.99:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, NAT GEO
+http://38.18.238.99:2095/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, NAT GEO WILD
+http://38.18.238.99:2095/406NatGeoWild/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, SPACE
+http://38.18.238.99:2095/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, FRECUENCIA LATINA
+http://ad.mysisli.com/live/thetrs87lat/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Canal N
+http://ad.mysisli.com/live/ene876d/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, ALL SPORT
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1, HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1, TELESUR
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1, Atv MUSIC
+http://85.132.81.184:8080/atv/index.m3u8
+
+#EXTINF:-1,Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+
+#EXTINF:-1, TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:-1, TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+
+#EXTINF:-1, Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+
+#EXTINF:-1, Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+
+#EXTINF:-1, TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1, TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1, 3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
+#EXTINF:-1, Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+
+#EXTINF:-1, TV3 (Opt-1)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:-1, DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1, FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1,SPAIN:(ONLINE) TV3 (Opt-2)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:-1,TVE 24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+#EXTINF:-1, FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1,SPAIN:BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1,Super 3
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+
+#EXTINF:-1,HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+
+#EXTINF:-1,CGTN Espanol
+http://live.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,Deutsche Welle Latino | SD
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1,SAT
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+
+#EXTINF:-1,ESPAÑA:TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+
+#EXTINF:-1,7TV Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+
+#EXTINF:-1, FOX ACTION HD
+http://144.217.69.93:25461/live/Maelo777/magie777/58934.m3u8
+
+#EXTINF:-1,DirecTV Sports
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11706.m3u8
+
+#EXTINF:-1,DirecTV Sports 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17435.m3u8
+
+#EXTINF:-1,DirecTV Sports Plus
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17436.m3u8
+
+#EXTINF:-1, WWE NETWORK
+http://144.217.69.93:25461/live/Maelo777/magie777/58270.m3u8
+
+#EXTINF:-1, Gol Peru
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13040.m3u8
+
+#EXTINF:-1, Latina
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13039.m3u8
+
+#EXTINF:-1, Movistar Deportes
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13038.m3u8
+
+#EXTINF:-1, Movistar Plus
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13035.m3u8
+
+#EXTINF:-1, Panamericana
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16789.m3u8
+
+#EXTINF:-1, America TV
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16800.m3u8
+
+#EXTINF:-1, ATV
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13043.m3u8
+
+#EXTINF:-1, Atv Plus
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13042.m3u8
+
+#EXTINF:-1, El Chavo del 8 24/7
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/4848.m3u8
+
+#EXTINF:-1,Chapulin Colorado 24/7
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/11450.m3u8
