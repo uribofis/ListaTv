@@ -1,81 +1,405 @@
 #EXTM3U
-#EXTINF:-1,Fox Sports 2
-http://23.139.96.12:2095/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,Fox Sports 3
-http://23.139.96.12:2095/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
+#EXTINF:-1,A&E
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/1 
 #EXTINF:-1,AXN
-http://23.139.96.12:2095/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,TNT
-http://23.139.96.12:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,HBO
-http://23.139.96.12:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,HBO2
-http://23.139.96.12:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,CartoonNetwork
-http://23.139.96.12:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,discoverykids
-http://23.139.96.12:2095/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,Disneychannel
-http://23.139.96.12:2095/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,Disney XD
-http://23.139.96.12:2095/304DisneyXDNorte/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,claro sport
-http://23.139.96.12:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,TUDN
-http://23.139.96.12:2095/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,encoder18
-http://23.139.96.12:2095/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,Space
-http://23.139.96.12:2095/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,history
-http://23.139.96.12:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,H2
-http://23.139.96.12:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,Warner Channel
-http://23.139.96.12:2095/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,Estrellas
-http://23.139.96.12:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,MaxPrime
-http://23.139.96.12:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-#EXTINF:-1,TNT
-http://23.139.96.12:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-#EXTINF:-1,TNTSE
-http://23.139.96.12:2095/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,encoder18
-http://23.139.96.12:2095/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/2 
+#EXTINF:-1,Animal Planet
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/3 
+#EXTINF:-1,Az Corazon
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/4 
+#EXTINF:-1,Az Mundo
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/5 
+#EXTINF:-1,AMC
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/6 
+#EXTINF:-1,Antena 3
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/7 
+#EXTINF:-1,:  MX | Az Mundo
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/8 
+#EXTINF:-1,Baby TV
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/9 
+#EXTINF:-1,:  MX | Aym Sports
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/10 
+#EXTINF:-1,CNN EspaÃ±ol
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/11 
+#EXTINF:-1,CNN USA
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/12 
+#EXTINF:-1,Cablenoticias
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/13 
+#EXTINF:-1,Canal Claro
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/14 
+#EXTINF:-1,Las Estrellas
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/15 
+#EXTINF:-1,Caracoltv
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/16 
+#EXTINF:-1,Caracol
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/17 
+#EXTINF:-1,Cartoon Network
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/18 
+#EXTINF:-1,Cinecanal
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/19 
+#EXTINF:-1,Cinelatino
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/20 
+#EXTINF:-1,:  MX | Garage TV
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/21 
+#EXTINF:-1,:  MX | Food Network
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/22 
+#EXTINF:-1,City
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/23 
+#EXTINF:-1,Claro Cinema
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/24 
+#EXTINF:-1,Claro Musica
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/25 
+#EXTINF:-1,Claro Musica 2
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/26 
+#EXTINF:-1,Claro Sports 2
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/27 
+#EXTINF:-1,Claro Sports
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/28 
+#EXTINF:-1,Comedy Central
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/29 
+#EXTINF:-1,Concert
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/30 
+#EXTINF:-1,DHE
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/31 
+#EXTINF:-1,DW
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/32 
+#EXTINF:-1,:  3
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/33 
+#EXTINF:-1,De Pelicula
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/34 
+#EXTINF:-1,RED
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/35 
+#EXTINF:-1,DISCOVERY
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/36 
+#EXTINF:-1,H&H
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/37 
+#EXTINF:-1,DISCOVERY KIDS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/38 
+#EXTINF:-1,DISCOVERY SCI
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/39 
+#EXTINF:-1,DISCOVERY THEATER
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/40 
+#EXTINF:-1,Discovery TURBO
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/41 
+#EXTINF:-1,Discovery WORLD
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/42 
+#EXTINF:-1,DISNEY CHANNEL
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/43 
+#EXTINF:-1,DISNEY XD 
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/45 
+#EXTINF:-1,E!
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/46 
+#EXTINF:-1,GOURMET
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/47 
+#EXTINF:-1,MAS CHIC
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/48 
+#EXTINF:-1,MTV HITS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/49 
+#EXTINF:-1,MTV
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/50 
+#EXTINF:-1,LIFETIME
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/51 
+#EXTINF:-1,Discovery ID
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/52 
+#EXTINF:-1,I SAT
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/53 
+#EXTINF:-1,HOLATV
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/54 
+#EXTINF:-1,HISTORY
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/56 
+#EXTINF:-1,HTV
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/57 
+#EXTINF:-1,HBO +
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/59 
+#EXTINF:-1,HBO 
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/60 
+#EXTINF:-1,: LAT | Discovery Theater
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/61 
+#EXTINF:-1,HBO FAMILY
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/62 
+#EXTINF:-1,HBO 2
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/63 
+#EXTINF:-1,HBO.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/64 
+#EXTINF:-1,NBC GOLF
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/65 
+#EXTINF:-1,GOLDEN PREMIER
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/66 
+#EXTINF:-1,GOLDEN +
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/67 
+#EXTINF:-1,GLITZ
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/68 
+#EXTINF:-1,FXM
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/69 
+#EXTINF:-1,FXM 2
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/70 
+#EXTINF:-1,FRANCE24
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/71 
+#EXTINF:-1,FOX SPORTS 3
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/72 
+#EXTINF:-1,FOX SPORTS 3.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/73 
+#EXTINF:-1,FOX SPORTS 2
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/74 
+#EXTINF:-1,FOX SPORTS 2.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/75 
+#EXTINF:-1,FOX SPORTS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/76 
+#EXTINF:-1,FOX SPORTS.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/77 
+#EXTINF:-1,FOX SERIES
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/78 
+#EXTINF:-1,FOX SERIES.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/79 
+#EXTINF:-1,FOX USA
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/80 
+#EXTINF:-1,FOX MOVIES
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/81 
+#EXTINF:-1,FOX LIFE
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/82 
+#EXTINF:-1,FOX LIFE.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/83 
+#EXTINF:-1,FOX FAMILY
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/84 
+#EXTINF:-1,FOX COMEDY
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/85 
+#EXTINF:-1,FOX CINEMA
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/87 
+#EXTINF:-1,FOX ACTION
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/89 
+#EXTINF:-1,FOX ACTION.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/90 
+#EXTINF:-1,FOX
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/91 
+#EXTINF:-1,FX
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/92 
 #EXTINF:-1,ESPN
-http://23.139.96.12:2095/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/94 
+#EXTINF:-1,ESPN.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/95 
 #EXTINF:-1,ESPN2
-http://23.139.96.12:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,ESPN3
-http://23.139.96.12:2095/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,Canal FOX Mexico
-http://23.139.96.12:2095/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1,CMEDY
-http://23.139.96.12:2095/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/96 
+#EXTINF:-1,ESPN2.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/97 
+#EXTINF:-1,WIN SPORTS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/98 
+#EXTINF:-1,WARNER
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/99 
+#EXTINF:-1,CLASSIC
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/100 
+#EXTINF:-1,VH1
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/101 
+#EXTINF:-1,UNIVERSAL
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/103 
+#EXTINF:-1,UNICABLE
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/104 
+#EXTINF:-1,TRUTV
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/105 
+#EXTINF:-1,TVE
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/106 
+#EXTINF:-1,TOONCAST
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/107 
+#EXTINF:-1,: LAT | Espn 3 Sur
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/108 
+#EXTINF:-1,TNT SERIES
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/109 
+#EXTINF:-1,TNT
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/110 
+#EXTINF:-1,TLC
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/111 
+#EXTINF:-1,TCM
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/112 
+#EXTINF:-1,TBS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/113 
+#EXTINF:-1,SUNDANCE
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/114 
+#EXTINF:-1,SPACE
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/116 
+#EXTINF:-1,SONY
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/117 
+#EXTINF:-1,PASIONES
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/119 
+#EXTINF:-1,PARAMOUNT
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/120 
+#EXTINF:-1,NICK
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/121 
+#EXTINF:-1,NICK JR
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/122 
+#EXTINF:-1,NICK 2
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/123 
+#EXTINF:-1,NAT GEO WILD
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/124 
+#EXTINF:-1,NAT GEO
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/125 
+#EXTINF:-1,NAT GEO KIDS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/126 
+#EXTINF:-1,NAT GEO KIDS.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/127 
+#EXTINF:-1,NAT GEO.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/128 
+#EXTINF:-1,MTV LIVE
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/130 
+#EXTINF:-1,MAX UP
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/131 
+#EXTINF:-1,MAX PRIME
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/132 
+#EXTINF:-1,MAX
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/133 
+#EXTINF:-1,AZTECA 7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/134 
+#EXTINF:-1,: LAT | HBO 2
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/135 
+#EXTINF:-1,: LAT | HBO plus
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/136 
+#EXTINF:-1,: LAT | HBO Signature
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/138 
+#EXTINF:-1,AZ CLIC
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/139 
+#EXTINF:-1,AZ CINEMA
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/140 
+#EXTINF:-1,ANTENA 3 INT
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/142 
+#EXTINF:-1,AYM SPORTS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/143 
+#EXTINF:-1,CANAL 5
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/144 
+#EXTINF:-1,NUE9VE
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/146 
+#EXTINF:-1,EUROPA
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/148 
+#EXTINF:-1,DISTRITO COMEDIA
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/149 
+#EXTINF:-1,MULTIMEDIOS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/150 
+#EXTINF:-1,8
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/151 
+#EXTINF:-1,GARAGETV
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/152 
+#EXTINF:-1,: LAT | Disney XD
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/153 
+#EXTINF:-1,: LAT | Disney
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/154 
+#EXTINF:-1,: LAT | Cable Noticias
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/155 
+#EXTINF:-1,TELERITY}MO
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/156 
+#EXTINF:-1,MILENIO
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/157 
+#EXTINF:-1,: LAT | Claro Sports Latinoamerica
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/158 
+#EXTINF:-1,ESPN U
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/159 
+#EXTINF:-1,ESPN..
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/160 
+#EXTINF:-1,TLNOVELAS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/169 
+#EXTINF:-1,NICKTOONS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/172 
+#EXTINF:-1,BANDAMAX
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/173 
+#EXTINF:-1,FOODNETWORK
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/174 
+#EXTINF:-1,TELEVISA
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/175 
+#EXTINF:-1,BOOMERANG
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/176 
+#EXTINF:-1,TELEHIT URBANO
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/178 
+#EXTINF:-1,TELEHIT +
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/179 
+#EXTINF:-1,TVC
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/180 
+#EXTINF:-1,GOLDEN PLUS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/183 
+#EXTINF:-1,GOLDEN EDGE
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/184 
+#EXTINF:-1,DIRECTV SPORTS +
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/186 
+#EXTINF:-1,DIRECTV SPORTS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/187 
+#EXTINF:-1,DIRECTV SPORTS.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/188 
+#EXTINF:-1,PERU
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/192 
+#EXTINF:-1,M DEPORTES
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/193 
+#EXTINF:-1,M DEPORTES.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/194 
+#EXTINF:-1,MOVISTAR
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/195 
+#EXTINF:-1,LATINA
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/196 
+#EXTINF:-1,AZ UNO
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/197 
+#EXTINF:-1,ATV
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/199 
+#EXTINF:-1,RCN
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/200 
+#EXTINF:-1,RCN 2
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/201 
+#EXTINF:-1,CHILE NOTICIAS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/212 
+#EXTINF:-1,CDO PREMIUM
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/213 
+#EXTINF:-1,CDO
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/214 
+#EXTINF:-1,CDF Premium
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/215 
+#EXTINF:-1,CDF
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/216 
+#EXTINF:-1,CDF HD
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/217 
+#EXTINF:-1,VTV
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/218 
+#EXTINF:-1,TNT SPORTS
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/219 
+#EXTINF:-1,VTV.
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/220 
+#EXTINF:-1,CINE AR
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/231 
+#EXTINF:-1,PANTERA ROSA 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/245 
+#EXTINF:-1,LOONEY TOONS 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/246 
+#EXTINF:-1,EL CHAVO 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/251 
+#EXTINF:-1,SUPER CAMPEONES 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/258 
+#EXTINF:-1,POKIEMON 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/266 
+#EXTINF:-1,PINKY Y CEREBRO 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/267 
+#EXTINF:-1,LOS SIMPSONS 274/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/276 
+#EXTINF:-1,FUTURAMA 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/280 
+#EXTINF:-1,DRAGON BALL 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/281 
+#EXTINF:-1,DRAGON BALL Z 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/282 
+#EXTINF:-1,DRAGON BALL GT 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/283 
+#EXTINF:-1,DRAGON BALL Z. 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/284 
+#EXTINF:-1,BOB ESPONJA 24/7
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/293 
+#EXTINF:-1,LA LIGA
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/314 
+#EXTINF:-1,: Canal Claro
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/315 
+#EXTINF:-1,: Jorge el curioso
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/316 
+#EXTINF:-1,: caillou
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/317 
+#EXTINF:-1,: PJ Masks
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/318 
+#EXTINF:-1,: Dora la Exploradora
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/319 
+#EXTINF:-1,: Bigtits xxx
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/320 
+#EXTINF:-1,: Jazmine Jae xxx
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/321 
+#EXTINF:-1,: Barnie y sus amigos
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/322 
+#EXTINF:-1,: Lazy Town
+http://dominiopersonal.xyz:25461/megaplayer/NsfSzvPsfy/323 
