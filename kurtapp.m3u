@@ -1,468 +1,1035 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="General",A&E
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/1
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="General",AXN
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/2
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="General",Animal Planet
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/3
-#EXTINF:-1 tvg-id="" tvg-name="Az Corazon" tvg-logo="" group-title="General",Az Corazon
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/4
-#EXTINF:-1 tvg-id="" tvg-name="Az Mundo" tvg-logo="" group-title="General",Az Mundo
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/5
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="General",AMC
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/6
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 Internacional" tvg-logo="" group-title="General",Antena 3 Internacional
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/7
-#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="General",BBC World
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/8
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="General",Baby TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/9
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="General",Bloomberg
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/10
-#EXTINF:-1 tvg-id="" tvg-name="CNN Espanol" tvg-logo="" group-title="General",CNN Espanol
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/11
-#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional" tvg-logo="" group-title="General",CNN Internacional
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/12
-#EXTINF:-1 tvg-id="" tvg-name="Cable Noticias" tvg-logo="" group-title="General",Cable Noticias
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/13
-#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="" group-title="General",Canal Claro
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/14
-#EXTINF:-1 tvg-id="" tvg-name="Canal de las estrellas Latino" tvg-logo="" group-title="General",Canal de las estrellas Latino
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/15
-#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="" group-title="General",Caracol
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/16
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional" tvg-logo="" group-title="General",Caracol Internacional
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/17
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="General",Cartoon Network
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/18
-#EXTINF:-1 tvg-id="" tvg-name="Cine Canal" tvg-logo="" group-title="General",Cine Canal
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/19
-#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="General",Cine Latino
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/20
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="" group-title="General",Cinema Dinamita
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/21
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Plus" tvg-logo="" group-title="General",Cinema Plus
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/22
-#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="" group-title="General",City TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/23
-#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="" group-title="General",Claro Cinema
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/24
-#EXTINF:-1 tvg-id="" tvg-name="Claro Music 1" tvg-logo="" group-title="General",Claro Music 1
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/25
-#EXTINF:-1 tvg-id="" tvg-name="Claro Music 2" tvg-logo="" group-title="General",Claro Music 2
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/26
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="General",Claro Sports
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/27
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Latinoamerica" tvg-logo="" group-title="General",Claro Sports Latinoamerica
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/28
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="General",Comedy Central
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/29
-#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="" group-title="General",DHE
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/31
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="General",DW
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/32
-#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="General",Concert Channel
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/30
-#EXTINF:-1 tvg-id="" tvg-name="DW America" tvg-logo="" group-title="General",DW America
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/33
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="" group-title="General",De Pelicula Plus
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/34
-#EXTINF:-1 tvg-id="" tvg-name="Dia TV" tvg-logo="" group-title="General",Dia TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/35
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/36
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health" tvg-logo="" group-title="General",Discovery Home and Health
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/37
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/38
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="General",Discovery Science
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/39
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="General",Discovery Turbo
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/41
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="" group-title="General",Discovery World
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/42
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="" group-title="General",Discovery Theater
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/40
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="General",Disney
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/43
-#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="General",Disney JR
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/44
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="General",Disney XD
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/45
-#EXTINF:-1 tvg-id="" tvg-name="E !" tvg-logo="" group-title="General",E !
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/46
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="General",El Gourmet
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/47
-#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="General",Mas Chic
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/48
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="General",MTV Hits
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/49
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="General",MTV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/50
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/51
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="General",Investigation Discovery
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/52
-#EXTINF:-1 tvg-id="" tvg-name="I.Sat" tvg-logo="" group-title="General",I.Sat
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/53
-#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="" group-title="General",Hola TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/54
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="General",H2
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/55
-#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="General",History Channel
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/56
-#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="" group-title="General",HTV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/57
-#EXTINF:-1 tvg-id="" tvg-name="HLN" tvg-logo="" group-title="General",HLN
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/58
-#EXTINF:-1 tvg-id="" tvg-name="HBO plus" tvg-logo="" group-title="General",HBO plus
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/59
-#EXTINF:-1 tvg-id="" tvg-name="HBO Subtitulado" tvg-logo="" group-title="General",HBO Subtitulado
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/60
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="General",HBO Signature
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/61
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="General",HBO Family
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/62
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/63
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="General",HBO
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/64
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="General",Golf Channel
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/65
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premium" tvg-logo="" group-title="General",Golden Premium
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/66
-#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="General",Golden
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/67
-#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="" group-title="General",Glitz
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/68
-#EXTINF:-1 tvg-id="" tvg-name="Fx Movie Mex" tvg-logo="" group-title="General",Fx Movie Mex
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/69
-#EXTINF:-1 tvg-id="" tvg-name="Fx Movie" tvg-logo="" group-title="General",Fx Movie
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/70
-#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="General",France 24
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/71
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Sur" tvg-logo="" group-title="General",Fox Sports 3 Sur
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/72
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 MX" tvg-logo="" group-title="General",Fox Sports 3 MX
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/73
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 MX" tvg-logo="" group-title="General",Fox Sports 2 MX
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/74
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Sur" tvg-logo="" group-title="General",Fox Sports 2 Sur
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/75
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 Sur" tvg-logo="" group-title="General",Fox Sports 1 Sur
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/76
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 MX" tvg-logo="" group-title="General",Fox Sports 1 MX
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/77
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series Subtitulado" tvg-logo="" group-title="General",Fox Premium Series Subtitulado
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/78
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series" tvg-logo="" group-title="General",Fox Premium Series
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/79
-#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="General",Fox News
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/80
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Movies" tvg-logo="" group-title="General",Fox Premium Movies
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/81
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life Mex" tvg-logo="" group-title="General",Fox Life Mex
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/82
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="" group-title="General",Fox Life
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/83
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Family" tvg-logo="" group-title="General",Fox Premium Family
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/84
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Comedy" tvg-logo="" group-title="General",Fox Premium Comedy
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/85
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Classics" tvg-logo="" group-title="General",Fox Premium Classics
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/86
-#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema Subtitulado" tvg-logo="" group-title="General",Fox Cinema Subtitulado
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/87
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Cinema" tvg-logo="" group-title="General",Fox Premium Cinema
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/88
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Action MX" tvg-logo="" group-title="General",Fox Premium Action MX
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/89
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Action" tvg-logo="" group-title="General",Fox Premium Action
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/90
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="General",Fox
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/91
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="General",FX
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/92
-#EXTINF:-1 tvg-id="" tvg-name="Euro Channel" tvg-logo="" group-title="General",Euro Channel
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/93
-#EXTINF:-1 tvg-id="" tvg-name="Espn Plus Sur" tvg-logo="" group-title="General",Espn Plus Sur
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/94
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3 Sur" tvg-logo="" group-title="General",Espn 3 Sur
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/95
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2 Sur" tvg-logo="" group-title="General",Espn 2 Sur
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/96
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1 Sur" tvg-logo="" group-title="General",Espn 1 Sur
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/97
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="" group-title="General",Win Sports
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/98
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="" group-title="General",Warner Channel
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/99
-#EXTINF:-1 tvg-id="" tvg-name="Vh1 Classic" tvg-logo="" group-title="General",Vh1 Classic
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/100
-#EXTINF:-1 tvg-id="" tvg-name="Vh1" tvg-logo="" group-title="General",Vh1
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/101
-#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="" group-title="General",Univision
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/102
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/103
-#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="" group-title="General",Unicable
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/104
-#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="" group-title="General",Tru TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/105
-#EXTINF:-1 tvg-id="" tvg-name="Tve" tvg-logo="" group-title="General",Tve
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/106
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/107
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="General",Telemundo
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/108
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="General",TNT Series
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/109
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="General",TNT
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/110
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="General",TLC
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/111
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="General",TCM
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/112
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="General",TBS
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/113
-#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel" tvg-logo="" group-title="General",Sundance Channel
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/114
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/115
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="General",Space
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/116
-#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="" group-title="General",Sony
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/117
-#EXTINF:-1 tvg-id="" tvg-name="RCN Telenovelas" tvg-logo="" group-title="General",RCN Telenovelas
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/118
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="" group-title="General",Pasiones
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/119
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="" group-title="General",Paramount Channel
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/120
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="General",Nickelodeon
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/121
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="General",Nick Jr
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/122
-#EXTINF:-1 tvg-id="" tvg-name="Nick 2" tvg-logo="" group-title="General",Nick 2
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/123
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="General",Nat Geo Wild
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/124
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Mex" tvg-logo="" group-title="General",Nat Geo Mex
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/125
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids Mex" tvg-logo="" group-title="General",Nat Geo Kids Mex
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/126
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="General",Nat Geo Kids
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/127
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Channel" tvg-logo="" group-title="General",National Geographic Channel
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/128
-#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="General",Multipremier
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/129
-#EXTINF:-1 tvg-id="" tvg-name="Mtv Live" tvg-logo="" group-title="General",Mtv Live
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/130
-#EXTINF:-1 tvg-id="" tvg-name="Max Up" tvg-logo="" group-title="General",Max Up
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/131
-#EXTINF:-1 tvg-id="" tvg-name="Max Prime" tvg-logo="" group-title="General",Max Prime
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/132
-#EXTINF:-1 tvg-id="" tvg-name="Max" tvg-logo="" group-title="General",Max
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/133
-#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca 7" tvg-logo="-" group-title="General",MX | Azteca 7
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/134
-#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca Uno" tvg-logo="-" group-title="General",MX | Azteca Uno
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/135
-#EXTINF:-1 tvg-id="" tvg-name="MX | ADN 40" tvg-logo="-" group-title="General",MX | ADN 40
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/136
-#EXTINF:-1 tvg-id="" tvg-name="MX | Az Corazón" tvg-logo="-" group-title="General",MX | Az Corazón
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/137
-#EXTINF:-1 tvg-id="" tvg-name="MX | Az Mundo" tvg-logo="-" group-title="General",MX | Az Mundo
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/138
-#EXTINF:-1 tvg-id="" tvg-name="MX | Az Clic" tvg-logo="-" group-title="General",MX | Az Clic
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/139
-#EXTINF:-1 tvg-id="" tvg-name="MX | Az Cinema" tvg-logo="-" group-title="General",MX | Az Cinema
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/140
-#EXTINF:-1 tvg-id="" tvg-name="MX | A3 Series" tvg-logo="-" group-title="General",MX | A3 Series
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/141
-#EXTINF:-1 tvg-id="" tvg-name="MX | Antena 3" tvg-logo="-" group-title="General",MX | Antena 3
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/142
-#EXTINF:-1 tvg-id="" tvg-name="MX | Aym Sports" tvg-logo="-" group-title="General",MX | Aym Sports
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/143
-#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5" tvg-logo="-" group-title="General",MX | Canal 5
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/144
-#EXTINF:-1 tvg-id="" tvg-name="MX | Las Estrellas" tvg-logo="-" group-title="General",MX | Las Estrellas
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/145
-#EXTINF:-1 tvg-id="" tvg-name="MX | Galatv" tvg-logo="-" group-title="General",MX | Galatv
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/146
-#EXTINF:-1 tvg-id="" tvg-name="MX | Foro TV" tvg-logo="-" group-title="General",MX | Foro TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/147
-#EXTINF:-1 tvg-id="" tvg-name="MX | Europa Europa" tvg-logo="-" group-title="General",MX | Europa Europa
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/148
-#EXTINF:-1 tvg-id="" tvg-name="MX | Distrito Comedia" tvg-logo="-" group-title="General",MX | Distrito Comedia
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/149
-#EXTINF:-1 tvg-id="" tvg-name="MX | Multimedios" tvg-logo="-" group-title="General",MX | Multimedios
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/150
-#EXTINF:-1 tvg-id="" tvg-name="MX | Televisa MTY" tvg-logo="-" group-title="General",MX | Televisa MTY
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/151
-#EXTINF:-1 tvg-id="" tvg-name="MX | Garage TV" tvg-logo="-" group-title="General",MX | Garage TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/152
-#EXTINF:-1 tvg-id="" tvg-name="MX | Congreso de la Unión" tvg-logo="-" group-title="General",MX | Congreso de la Unión
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/153
-#EXTINF:-1 tvg-id="" tvg-name="MX | Imagen TV" tvg-logo="-" group-title="General",MX | Imagen TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/154
-#EXTINF:-1 tvg-id="" tvg-name="MX | Latin American Sports" tvg-logo="-" group-title="General",MX | Latin American Sports
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/155
-#EXTINF:-1 tvg-id="" tvg-name="MX | Teleritmo" tvg-logo="-" group-title="General",MX | Teleritmo
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/156
-#EXTINF:-1 tvg-id="" tvg-name="MX | Milenio TV" tvg-logo="-" group-title="General",MX | Milenio TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/157
-#EXTINF:-1 tvg-id="" tvg-name="MX | Espn Sec Network" tvg-logo="-" group-title="General",MX | Espn Sec Network
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/158
-#EXTINF:-1 tvg-id="" tvg-name="MX | Espn U" tvg-logo="-" group-title="General",MX | Espn U
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/159
-#EXTINF:-1 tvg-id="" tvg-name="MX | Espn Plus" tvg-logo="-" group-title="General",MX | Espn Plus
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/160
-#EXTINF:-1 tvg-id="" tvg-name="MX | Espn" tvg-logo="-" group-title="General",MX | Espn
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/161
-#EXTINF:-1 tvg-id="" tvg-name="MX | Espn 2" tvg-logo="-" group-title="General",MX | Espn 2
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/162
-#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports 1" tvg-logo="-" group-title="General",MX | Fox Sports 1
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/163
-#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports 2" tvg-logo="-" group-title="General",MX | Fox Sports 2
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/164
-#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports 3" tvg-logo="-" group-title="General",MX | Fox Sports 3
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/165
-#EXTINF:-1 tvg-id="" tvg-name="MX | RT Noticias" tvg-logo="-" group-title="General",MX | RT Noticias
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/166
-#EXTINF:-1 tvg-id="" tvg-name="MX | Espn 3" tvg-logo="-" group-title="General",MX | Espn 3
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/167
-#EXTINF:-1 tvg-id="" tvg-name="MX | RT en Espanol" tvg-logo="-" group-title="General",MX | RT en Espanol
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/168
-#EXTINF:-1 tvg-id="" tvg-name="MX | Tl Novelas" tvg-logo="-" group-title="General",MX | Tl Novelas
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/169
-#EXTINF:-1 tvg-id="" tvg-name="MX | A Plus" tvg-logo="-" group-title="General",MX | A Plus
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/170
-#EXTINF:-1 tvg-id="" tvg-name="MX | Cinemax" tvg-logo="-" group-title="General",MX | Cinemax
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/171
-#EXTINF:-1 tvg-id="" tvg-name="MX | Nicktoons" tvg-logo="-" group-title="General",MX | Nicktoons
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/172
-#EXTINF:-1 tvg-id="" tvg-name="MX | Bandamax" tvg-logo="-" group-title="General",MX | Bandamax
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/173
-#EXTINF:-1 tvg-id="" tvg-name="MX | Food Network" tvg-logo="-" group-title="General",MX | Food Network
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/174
-#EXTINF:-1 tvg-id="" tvg-name="MX | Televisa Puebla" tvg-logo="-" group-title="General",MX | Televisa Puebla
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/175
-#EXTINF:-1 tvg-id="" tvg-name="MX | Boomerang" tvg-logo="-" group-title="General",MX | Boomerang
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/176
-#EXTINF:-1 tvg-id="" tvg-name="MX | Ingenio TV" tvg-logo="-" group-title="General",MX | Ingenio TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/177
-#EXTINF:-1 tvg-id="" tvg-name="MX | Ritmoson" tvg-logo="-" group-title="General",MX | Ritmoson
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/178
-#EXTINF:-1 tvg-id="" tvg-name="MX | Telehit" tvg-logo="-" group-title="General",MX | Telehit
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/179
-#EXTINF:-1 tvg-id="" tvg-name="MX | TVC" tvg-logo="-" group-title="General",MX | TVC
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/180
-#EXTINF:-1 tvg-id="" tvg-name="MX | TVC Deportes" tvg-logo="-" group-title="General",MX | TVC Deportes
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/181
-#EXTINF:-1 tvg-id="" tvg-name="MX | Telefórmula" tvg-logo="-" group-title="General",MX | Telefórmula
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/182
-#EXTINF:-1 tvg-id="" tvg-name="MX | Golden" tvg-logo="-" group-title="General",MX | Golden
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/183
-#EXTINF:-1 tvg-id="" tvg-name="MX | Golden Edge" tvg-logo="-" group-title="General",MX | Golden Edge
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/184
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo="-" group-title="General",Bein Sports
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/185
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus" tvg-logo="-" group-title="General",Directv Sports Plus
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/186
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="-" group-title="General",Directv Sports
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/187
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2" tvg-logo="-" group-title="General",Directv Sports 2
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/188
-#EXTINF:-1 tvg-id="" tvg-name="Univision UDN" tvg-logo="-" group-title="General",Univision UDN
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/189
-#EXTINF:-1 tvg-id="" tvg-name="Univision TDN" tvg-logo="-" group-title="General",Univision TDN
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/190
-#EXTINF:-1 tvg-id="" tvg-name="PE | TV Peru" tvg-logo="-" group-title="General",PE | TV Peru
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/191
-#EXTINF:-1 tvg-id="" tvg-name="PE | Peru Magico" tvg-logo="-" group-title="General",PE | Peru Magico
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/192
-#EXTINF:-1 tvg-id="" tvg-name="PE | Panamericana" tvg-logo="-" group-title="General",PE | Panamericana
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/193
-#EXTINF:-1 tvg-id="" tvg-name="PE | Movistar Deportes" tvg-logo="-" group-title="General",PE | Movistar Deportes
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/194
-#EXTINF:-1 tvg-id="" tvg-name="PE | Gol Peru" tvg-logo="-" group-title="General",PE | Gol Peru
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/195
-#EXTINF:-1 tvg-id="" tvg-name="PE | Frecuencia Latina" tvg-logo="-" group-title="General",PE | Frecuencia Latina
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/196
-#EXTINF:-1 tvg-id="" tvg-name="PE | America TV" tvg-logo="-" group-title="General",PE | America TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/197
-#EXTINF:-1 tvg-id="" tvg-name="COL | Trece" tvg-logo="-" group-title="General",COL | Trece
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/198
-#EXTINF:-1 tvg-id="" tvg-name="PE | ATV" tvg-logo="-" group-title="General",PE | ATV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/199
-#EXTINF:-1 tvg-id="" tvg-name="COL | RCN 2" tvg-logo="-" group-title="General",COL | RCN 2
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/200
-#EXTINF:-1 tvg-id="" tvg-name="COL | RCN" tvg-logo="-" group-title="General",COL | RCN
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/201
-#EXTINF:-1 tvg-id="" tvg-name="COL | NTN24" tvg-logo="-" group-title="General",COL | NTN24
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/202
-#EXTINF:-1 tvg-id="" tvg-name="COL | El Tiempo" tvg-logo="-" group-title="General",COL | El Tiempo
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/203
-#EXTINF:-1 tvg-id="" tvg-name="COL | Caracol 2" tvg-logo="-" group-title="General",COL | Caracol 2
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/204
-#EXTINF:-1 tvg-id="" tvg-name="COL | Caracol" tvg-logo="-" group-title="General",COL | Caracol
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/205
-#EXTINF:-1 tvg-id="" tvg-name="COL | Cantinazo" tvg-logo="-" group-title="General",COL | Cantinazo
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/206
-#EXTINF:-1 tvg-id="" tvg-name="COL | Canal Uno" tvg-logo="-" group-title="General",COL | Canal Uno
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/207
-#EXTINF:-1 tvg-id="" tvg-name="COL | Canal Capital" tvg-logo="-" group-title="General",COL | Canal Capital
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/208
-#EXTINF:-1 tvg-id="" tvg-name="COL | CaliTV" tvg-logo="-" group-title="General",COL | CaliTV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/209
-#EXTINF:-1 tvg-id="" tvg-name="COL | Cable Noticias" tvg-logo="-" group-title="General",COL | Cable Noticias
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/210
-#EXTINF:-1 tvg-id="" tvg-name="CL | Fox Sports" tvg-logo="-" group-title="General",CL | Fox Sports
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/211
-#EXTINF:-1 tvg-id="" tvg-name="CL | Chilevision" tvg-logo="-" group-title="General",CL | Chilevision
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/212
-#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Premium" tvg-logo="-" group-title="General",CL | CDO Premium
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/213
-#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Basico" tvg-logo="-" group-title="General",CL | CDO Basico
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/214
-#EXTINF:-1 tvg-id="" tvg-name="CL | CDF Premium" tvg-logo="-" group-title="General",CL | CDF Premium
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/215
-#EXTINF:-1 tvg-id="" tvg-name="CL | CDF Basico" tvg-logo="-" group-title="General",CL | CDF Basico
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/216
-#EXTINF:-1 tvg-id="" tvg-name="CL | CDF" tvg-logo="-" group-title="General",CL | CDF
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/217
-#EXTINF:-1 tvg-id="" tvg-name="URU | VTV" tvg-logo="-" group-title="General",URU | VTV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/218
-#EXTINF:-1 tvg-id="" tvg-name="AR | TNT Sports" tvg-logo="-" group-title="General",AR | TNT Sports
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/219
-#EXTINF:-1 tvg-id="" tvg-name="URU | VTV Plus" tvg-logo="-" group-title="General",URU | VTV Plus
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/220
-#EXTINF:-1 tvg-id="" tvg-name="AR | Television Publica" tvg-logo="-" group-title="General",AR | Television Publica
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/222
-#EXTINF:-1 tvg-id="" tvg-name="AR | Telefe" tvg-logo="-" group-title="General",AR | Telefe
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/223
-#EXTINF:-1 tvg-id="" tvg-name="AR | Fox Sports Premium" tvg-logo="-" group-title="General",AR | Fox Sports Premium
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/224
-#EXTINF:-1 tvg-id="" tvg-name="AR | Encuentro" tvg-logo="-" group-title="General",AR | Encuentro
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/225
-#EXTINF:-1 tvg-id="" tvg-name="AR | El trece" tvg-logo="-" group-title="General",AR | El trece
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/226
-#EXTINF:-1 tvg-id="" tvg-name="AR | El Nueve" tvg-logo="-" group-title="General",AR | El Nueve
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/227
-#EXTINF:-1 tvg-id="" tvg-name="AR | Cronica Television" tvg-logo="-" group-title="General",AR | Cronica Television
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/228
-#EXTINF:-1 tvg-id="" tvg-name="AR | CN23" tvg-logo="-" group-title="General",AR | CN23
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/229
-#EXTINF:-1 tvg-id="" tvg-name="AR | CINE.AR" tvg-logo="-" group-title="General",AR | CINE.AR
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/230
-#EXTINF:-1 tvg-id="" tvg-name="AR | Canal 26 Noticias" tvg-logo="-" group-title="General",AR | Canal 26 Noticias
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/231
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N" tvg-logo="-" group-title="General",AR | C5N
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/232
-#EXTINF:-1 tvg-id="" tvg-name="AR | America TV" tvg-logo="-" group-title="General",AR | America TV
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/233
-#EXTINF:-1 tvg-id="" tvg-name="AR | A24" tvg-logo="-" group-title="General",AR | A24
-http://dominiopersonal.xyz:25461/whiteitv/WOXIMEPELASLAVERG.A...WE/234
+
+#EXTINF:-1,Nba League Pass 7
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1501.ts
+
+#EXTINF:-1,Nba League Pass 5
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1503.ts
+
+#EXTINF:-1,Nba League Pass 4
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1504.ts
+
+#EXTINF:-1,Nba League Pass 3
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1505.ts
+
+#EXTINF:-1,CULTURA | National Geographic FHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1498.ts
+
+#EXTINF:-1,CULTURA | Investigation Discovery FHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1494.ts
+
+#EXTINF:-1,CULTURA | History FHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1495.ts
+
+#EXTINF:-1,CULTURA | Discovery Turbo FHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1497.ts
+
+#EXTINF:-1,CULTURA | Discovery Channel full HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1493.ts
+
+#EXTINF:-1,CULTURA | Animal Planet FHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1496.ts
+
+#EXTINF:-1,COLOMBIA | TRECE (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1479.ts
+
+#EXTINF:-1,COLOMBIA | TELEPACIFICO (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1480.ts
+
+#EXTINF:-1,COLOMBIA | TELEMEDELLIN (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1475.ts
+
+#EXTINF:-1,COLOMBIA | TELECARIBE (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1481.ts
+
+#EXTINF:-1,COLOMBIA | TELECAFE (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1482.ts
+
+#EXTINF:-1,COLOMBIA | TELEANTIOQUIA (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1483.ts
+
+#EXTINF:-1,COLOMBIA | RCN TELENOVELAS (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1484.ts
+
+#EXTINF:-1,COLOMBIA | RCN (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1485.ts
+
+#EXTINF:-1,COLOMBIA | NT24 (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1477.ts
+
+#EXTINF:-1,COLOMBIA | CITY TV (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1487.ts
+
+#EXTINF:-1,COLOMBIA | CARACOL (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1489.ts
+
+#EXTINF:-1,COLOMBIA | CANAL UNO (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1490.ts
+
+#EXTINF:-1,COLOMBIA | CABLE NOTICIAS (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1491.ts
+
+#EXTINF:-1,CINE (P) | TNT FHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1492.ts
+
+#EXTINF:-1,Unicable
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1464.ts
+
+#EXTINF:-1,Hola TV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1465.ts
+
+#EXTINF:-1,DEPORTES SD: TyC Sports Int.
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1473.ts
+
+#EXTINF:-1,DEPORTES SD: TNT SPORTS HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1472.ts
+
+#EXTINF:-1,DEPORTES SD: Fox Sports 3 Sur
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1469.ts
+
+#EXTINF:-1,DEPORTES SD: Fox Sports 2 Sur
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1468.ts
+
+#EXTINF:-1,DEPORTES SD: Fox Sports 1 Sur
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1467.ts
+
+#EXTINF:-1,DEPORTES SD: DIRECTV SPORTS 1
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1474.ts
+
+#EXTINF:-1,DEPORTES SD: Claro Sports Latinoamerica
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1466.ts
+
+#EXTINF:-1,A&E FHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1463.ts
+
+#EXTINF:-1,CHILE | UTV SAN CLEMENTE (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1436.ts
+
+#EXTINF:-1,CHILE | UCV 3 (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1437.ts
+
+#EXTINF:-1,CHILE | TVU CONCEPCION (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1438.ts
+
+#EXTINF:-1,CHILE | TVR (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1439.ts
+
+#EXTINF:-1,CHILE | TVN SD (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1429.ts
+
+#EXTINF:-1,CHILE | TVN Kids (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1440.ts
+
+#EXTINF:-1,CHILE | TVN HD (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1428.ts
+
+#EXTINF:-1,CHILE | TV SALUD (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1441.ts
+
+#EXTINF:-1,CHILE | TV CHILE (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1426.ts
+
+#EXTINF:-1,CHILE | TV Chile
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1427.ts
+
+#EXTINF:-1,CHILE | TV   (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1425.ts
+
+#EXTINF:-1,CHILE | TNE CHILE (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1442.ts
+
+#EXTINF:-1,CHILE | TELEVIDA (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1443.ts
+
+#EXTINF:-1,CHILE | PINGUINO TV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1435.ts
+
+#EXTINF:-1,CHILE | ORBIT TV (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1444.ts
+
+#EXTINF:-1,CHILE | MUNDO   (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1445.ts
+
+#EXTINF:-1,CHILE | MEGA SD (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1430.ts
+
+#EXTINF:-1,CHILE | MEGA HD (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1431.ts
+
+#EXTINF:-1,CHILE | MEGA HD  (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1432.ts
+
+#EXTINF:-1,CHILE | LA RED HD (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1423.ts
+
+#EXTINF:-1,CHILE | ITV PATAGONIA (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1446.ts
+
+#EXTINF:-1,CHILE | GRACIA TV (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1447.ts
+
+#EXTINF:-1,CHILE | FM HOT MOVIES (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1448.ts
+
+#EXTINF:-1,CHILE | ETC TV (F)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1434.ts
+
+#EXTINF:-1,CHILE | CNN CHILE SD (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1422.ts
+
+#EXTINF:-1,CHILE | CHILEVISION  (L).
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1433.ts
+
+#EXTINF:-1,CHILE | CANAL 9 BIO-BIO (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1450.ts
+
+#EXTINF:-1,CHILE | CANAL 2 SAN ANTONIO (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1451.ts
+
+#EXTINF:-1,CHILE | CANAL 11 CABRERO (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1452.ts
+
+#EXTINF:-1,CHILE | CAMPO ABIERTO (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1453.ts
+
+#EXTINF:-1,CHILE | CAMARA DE DIPUTADOS (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1454.ts
+
+#EXTINF:-1,CHILE | ÑUBLE TV (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1455.ts
+
+#EXTINF:-1,CHILE | ATACAMA TV (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1456.ts
+
+#EXTINF:-1,CHILE | ANTOFAGASTA TV (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1457.ts
+
+#EXTINF:-1,Chile  | LA RED  (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1424.ts
+
+#EXTINF:-1,SPORT U.S | ESPN NETWORK
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1412.ts
+
+#EXTINF:-1,MEXICO | TUDN
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1403.ts
+
+#EXTINF:-1,MEXICO :TUDN MX (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1322.ts
+
+#EXTINF:-1,EUR | UFC Figh Pass HD (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1354.ts
+
+#EXTINF:-1,DEPORTES* | VTV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1411.ts
+
+#EXTINF:-1,DEPORTES* | GOLTV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1405.ts
+
+#EXTINF:-1,DEPORTES* | FOX SPORTS 3 MEXICO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1409.ts
+
+#EXTINF:-1,DEPORTES* | FOX SPORTS 2 ARGENTINA
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1414.ts
+
+#EXTINF:-1,DEPORTES* | ESPN PLUS MEXICO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1408.ts
+
+#EXTINF:-1,DEPORTES* | ESPN 3 MEXICO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1406.ts
+
+#EXTINF:-1,DEPORTES* | ESPN 2 MEXICO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1407.ts
+
+#EXTINF:-1,DEPORTES* | DIRECTV SPORTS DIRECT
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1413.ts
+
+#EXTINF:-1,DEPORTES* | DIRECTV SPORTS 2
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1418.ts
+
+#EXTINF:-1,DEPORTES | UFC HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1404.ts
+
+#EXTINF:-1,DEPORTES | Fox Sports 2 HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1421.ts
+
+#EXTINF:-1,DEPORTES LAT | TNT SPORTS HD (LP)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1383.ts
+
+#EXTINF:-1,DEPORTES LAT | WIN SPORTS (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1378.ts
+
+#EXTINF:-1,DEPORTES LAT | WIN SPORTS (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1379.ts
+
+#EXTINF:-1,DEPORTES LAT | TYC SPORTS*
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1385.ts
+
+#EXTINF:-1,DEPORTES LAT | TyC Sports HD (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1386.ts
+
+#EXTINF:-1,DEPORTES LAT | TYC SPORTS (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1387.ts
+
+#EXTINF:-1,DEPORTES LAT | TYC SPORTS (M)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1388.ts
+
+#EXTINF:-1,DEPORTES LAT | TYC SPORTS (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1389.ts
+
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 3 HD BO (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1397.ts
+
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 2 HD BO (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1396.ts
+
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 1 PLUS PARAGUAY
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1399.ts
+
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 1 HD PARAGUAY  (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1398.ts
+
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 1 HD BO (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1395.ts
+
+#EXTINF:-1,DEPORTES LAT | TELETRAK (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1367.ts
+
+#EXTINF:-1,DEPORTES LAT | GOLTV INTERNACIONAL (U)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1390.ts
+
+#EXTINF:-1,DEPORTES LAT | GOLTV ECUADOR (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1391.ts
+
+#EXTINF:-1,DEPORTES LAT | Gol TV PERU (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1392.ts
+
+#EXTINF:-1,DEPORTES LAT | Gol TV HD (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1393.ts
+
+#EXTINF:-1,DEPORTES LAT | GOL PERU  (N)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1394.ts
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS SUR (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1372.ts
+
+#EXTINF:-1,DEPORTES LAT | Fox Sports 3 MX FHD (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1375.ts
+
+#EXTINF:-1,DEPORTES LAT | Fox Sports 3 MX  (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1376.ts
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 AR (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1377.ts
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 SUR (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1373.ts
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 MEXICO (N)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1321.ts
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1374.ts
+
+#EXTINF:-1,DEPORTES LAT | Fox Sports 1 MX FHD (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1371.ts
+
+#EXTINF:-1,DEPORTES LAT | DIRECTV Sports 2 (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1381.ts
+
+#EXTINF:-1,DEPORTES LAT | DIRECTV SPORTS (U)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1380.ts
+
+#EXTINF:-1,DEPORTES LAT | DIRECTV SPORT    (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1382.ts
+
+#EXTINF:-1,DEPORTES LAT  | TNT SPORTS  (U)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1384.ts
+
+#EXTINF:-1,DEPORTES LAT  | FOX SPORTS PREMIUM  (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1370.ts
+
+#EXTINF:-1,DEPORTES LAT  | FOX SPORTS 3 MEXICO FHD (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1320.ts
+
+#EXTINF:-1,DEPORTES HD | TVC DEPORTES MEXICO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1416.ts
+
+#EXTINF:-1,DEPORTES HD | NBC GOLF MEXICO FHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1410.ts
+
+#EXTINF:-1,DEPORTES EUR | WWE NETWORK (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1356.ts
+
+#EXTINF:-1,DEPORTES EUR | UFC  HD (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1355.ts
+
+#EXTINF:-1,DEPORTES EUR | NFL NETWORK (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1357.ts
+
+#EXTINF:-1,DEPORTES EUR | NBC Philadelphia HD (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1360.ts
+
+#EXTINF:-1,DEPORTES EUR | NBC California HD (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1363.ts
+
+#EXTINF:-1,DEPORTES EUR | NBA FHD (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1358.ts
+
+#EXTINF:-1,DEPORTES EUR | Movistar LaLiga HD (K)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1328.ts
+
+#EXTINF:-1,DEPORTES EUR | MOVISTAR DEPORTES (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1331.ts
+
+#EXTINF:-1,DEPORTES EUR | MOVISTAR  F1 (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1359.ts
+
+#EXTINF:-1,DEPORTES EUR | M. Liga de Campeones FHD (K)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1329.ts
+
+#EXTINF:-1,DEPORTES EUR | M. LaLiga HD (K)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1339.ts
+
+#EXTINF:-1,DEPORTES EUR | LaLigaTV Bar FHD (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1326.ts
+
+#EXTINF:-1,DEPORTES EUR | LA LIGA TV BAR (K)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1327.ts
+
+#EXTINF:-1,DEPORTES EUR | eurosport 2 HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1353.ts
+
+#EXTINF:-1,DEPORTES EUR | Eurosport 1 HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1352.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN PLUS MX (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1351.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN Deportes HD USA (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1319.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 3 SD SUR AR (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1350.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 3 FHD MX (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1349.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 2 SD CO (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1348.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 2 SD AR (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1347.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 2 HD AR (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1346.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 2 FHD MX (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1345.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 2 FHD CO (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1344.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 1 HD CO (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1343.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 1 HD AR (Y)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1342.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 1 FHD MX (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1341.ts
+
+#EXTINF:-1,DEPORTES EUR | ESPN 1 FHD AR (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1340.ts
+
+#EXTINF:-1,DEPORTES EUR | beIN Sports Laliga HD USA (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1318.ts
+
+#EXTINF:-1,DEPORTES EUR | BEIN SPORTS LA LIGA (E)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1333.ts
+
+#EXTINF:-1,DEPORTES EUR | beIN Sports Ñ (T)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1332.ts
+
+#EXTINF:-1,DEPORTES EUR | beIN Sports 7 HD (Eventos) (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1338.ts
+
+#EXTINF:-1,DEPORTES EUR | beIN Sports 6 HD (Eventos) (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1337.ts
+
+#EXTINF:-1,DEPORTES EUR | beIN Sports 5 HD (Eventos) (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1336.ts
+
+#EXTINF:-1,DEPORTES EUR | beIN Sports 4 HD (L)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1335.ts
+
+#EXTINF:-1,DEPORTES EUR | beIN Sports 1 HD (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1334.ts
+
+#EXTINF:-1,DEPORTES EUR | BARCA TV (Z)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1325.ts
+
+#EXTINF:-1,DEPORTES EUR  | M. LIGA DE CAMPEONES (K)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1330.ts
+
+#EXTINF:-1,Costa Rica | Tigo Sport
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1420.ts
+
+#EXTINF:-1,BEIN SPORTS Ñ  (EVENTOS)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1323.ts
+
+#EXTINF:-1,ECUADOR: Ecuavisa Internacional
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1312.ts
+
+#EXTINF:-1,ECUADOR: Canal Uno UHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1306.ts
+
+#EXTINF:-1,ECUADOR:  Ecuavisa UHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1307.ts
+
+#EXTINF:-1,ECUADOR:  Ecuador TV Internacional
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1313.ts
+
+#EXTINF:-1,Starz West
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1291.ts
+
+#EXTINF:-1,Starz Latino
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1292.ts
+
+#EXTINF:-1,Starz Kids & Family
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1293.ts
+
+#EXTINF:-1,Starz In Black
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1294.ts
+
+#EXTINF:-1,Starz Edge
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1295.ts
+
+#EXTINF:-1,Starz East
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1296.ts
+
+#EXTINF:-1,Starz Comedy East
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1297.ts
+
+#EXTINF:-1,STARZ CINEMA EAST
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1298.ts
+
+#EXTINF:-1,SHOWTIME WEST
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1299.ts
+
+#EXTINF:-1,SHOWTIME SHOWCASE EAST
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1300.ts
+
+#EXTINF:-1,SHOWTIME NEXT
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1301.ts
+
+#EXTINF:-1,SHOWTIME LATINO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1302.ts
+
+#EXTINF:-1,SHOWTIME EXTREME EAST
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1303.ts
+
+#EXTINF:-1,SHOWTIME EAST HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1304.ts
+
+#EXTINF:-1,SHOWTIME 2 EAST HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1305.ts
+
+#EXTINF:-1,SPACE full hd
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1290.ts
+
+#EXTINF:-1,Syfy
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1284.ts
+
+#EXTINF:-1,Sony
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1285.ts
+
+#EXTINF:-1,promocion
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1260.ts
+
+#EXTINF:-1,Max Up
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1280.ts
+
+#EXTINF:-1,Max
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1281.ts
+
+#EXTINF:-1,Mas Chic
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1289.ts
+
+#EXTINF:-1,Glitz
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1288.ts
+
+#EXTINF:-1,A Plus 7.2
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1286.ts
+
+#EXTINF:-1,52 MX
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1287.ts
+
+#EXTINF:-1,BO | TV Latina Canal 42 HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1278.ts
+
+#EXTINF:-1,BO | Rec Online
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1274.ts
+
+#EXTINF:-1,BO | Bolivision
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1271.ts
+
+#EXTINF:-1,AR | El trece UHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1267.ts
+
+#EXTINF:-1,CINEMA | TNT
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1259.ts
+
+#EXTINF:-1,ECUADOR | GOLTV INTERNACIONAL (U)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1253.ts
+
+#EXTINF:-1,ECUADOR | GOLTV ECUADOR (P)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1254.ts
+
+#EXTINF:-1,peru | TV Peru HD (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1232.ts
+
+#EXTINF:-1,PERU | LATINA HD (p)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1234.ts
+
+#EXTINF:-1,peru | IPE  (A)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1233.ts
+
+#EXTINF:-1,PERU (T) | PANAMERICANA HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1225.ts
+
+#EXTINF:-1,PERU (T) | GOL PERU  FHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1227.ts
+
+#EXTINF:-1,PERU (T) | CMD SD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1228.ts
+
+#EXTINF:-1,PERU (T) | ATV SD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1229.ts
+
+#EXTINF:-1,PERU (E) | MOVISTAR DEPORTES
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1226.ts
+
+#EXTINF:-1,MOVISTAR  F1
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1204.ts
+
+#EXTINF:-1,| M. GOLF HD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1205.ts
+
+#EXTINF:-1,CINEMA| Golden Edge
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1132.ts
+
+#EXTINF:-1,TELEMUNDO LAS VEGAS
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1124.ts
+
+#EXTINF:-1,TELEMUNDO 60 SAN ANTONIO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1125.ts
+
+#EXTINF:-1,TELEMUNDO 51 MIAMI
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1127.ts
+
+#EXTINF:-1,TELEMUNDO 48 SAN FRANCISCO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1128.ts
+
+#EXTINF:-1,TELEMUNDO 47 NEW YORK
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1129.ts
+
+#EXTINF:-1,TELEMUNDO 44 CHICAGO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1130.ts
+
+#EXTINF:-1,TELEMUNDO 39 DALLAS
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1131.ts
+
+#EXTINF:-1,TELEMUNDO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/1123.ts
+
+#EXTINF:-1,DEPORTES│TVC
+http://plexonline.club:25461/live/thecrow1098/sinxxx/903.ts
+
+#EXTINF:-1,CNN ESPAÑOL
+http://plexonline.club:25461/live/thecrow1098/sinxxx/887.ts
+
+#EXTINF:-1,ENTRE│TELENOVELAS
+http://plexonline.club:25461/live/thecrow1098/sinxxx/868.ts
+
+#EXTINF:-1,ENTRE│EL GOURMET
+http://plexonline.club:25461/live/thecrow1098/sinxxx/866.ts
+
+#EXTINF:-1,ENTRE│E! Entertaiment ESP
+http://plexonline.club:25461/live/thecrow1098/sinxxx/863.ts
+
+#EXTINF:-1,ENTRE│DISTRITO COMEDIA
+http://plexonline.club:25461/live/thecrow1098/sinxxx/864.ts
+
+#EXTINF:-1,ENTRE│COMEDY CENTRAL ESP
+http://plexonline.club:25461/live/thecrow1098/sinxxx/865.ts
+
+#EXTINF:-1,MUSICA│VH1 CLASSIC
+http://plexonline.club:25461/live/thecrow1098/sinxxx/861.ts
+
+#EXTINF:-1,MUSICA│VH1
+http://plexonline.club:25461/live/thecrow1098/sinxxx/862.ts
+
+#EXTINF:-1,MUSICA│TELEHIT
+http://plexonline.club:25461/live/thecrow1098/sinxxx/860.ts
+
+#EXTINF:-1,MUSICA│MTV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/859.ts
+
+#EXTINF:-1,MUSICA│BANDAMAX
+http://plexonline.club:25461/live/thecrow1098/sinxxx/858.ts
+
+#EXTINF:-1,NIÑOS│BitMe
+http://plexonline.club:25461/live/thecrow1098/sinxxx/620.ts
+
+#EXTINF:-1,ENTRE│FOODNETWORK  ESP
+http://plexonline.club:25461/live/thecrow1098/sinxxx/621.ts
+
+#EXTINF:-1,ENTRE│ESTRELLA TV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/622.ts
+
+#EXTINF:-1,DEPORTES│UNIVISION SPORTS USA
+http://plexonline.club:25461/live/thecrow1098/sinxxx/617.ts
+
+#EXTINF:-1,DEPORTES│UFC  FIGHT PASS
+http://plexonline.club:25461/live/thecrow1098/sinxxx/618.ts
+
+#EXTINF:-1,DEPORTES│FOX SPORTS ESP
+http://plexonline.club:25461/live/thecrow1098/sinxxx/623.ts
+
+#EXTINF:-1,DEPORTES│FOX SPORTS 3
+http://plexonline.club:25461/live/thecrow1098/sinxxx/624.ts
+
+#EXTINF:-1,DEPORTES│FOX SPORTS 2
+http://plexonline.club:25461/live/thecrow1098/sinxxx/625.ts
+
+#EXTINF:-1,DEPORTES│ESPN PLUS
+http://plexonline.club:25461/live/thecrow1098/sinxxx/615.ts
+
+#EXTINF:-1,DEPORTES│ESPN MX
+http://plexonline.club:25461/live/thecrow1098/sinxxx/616.ts
+
+#EXTINF:-1,DEPORTES│ESPN 3 MX
+http://plexonline.club:25461/live/thecrow1098/sinxxx/614.ts
+
+#EXTINF:-1,DEPORTES│ESPN 2 MX
+http://plexonline.club:25461/live/thecrow1098/sinxxx/613.ts
+
+#EXTINF:-1,DEPORTES│BEIN  ESP
+http://plexonline.club:25461/live/thecrow1098/sinxxx/612.ts
+
+#EXTINF:-1,CINEMA│SUNDANCETV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/609.ts
+
+#EXTINF:-1,CINEMA│STUDIO UNIVERSAL
+http://plexonline.club:25461/live/thecrow1098/sinxxx/611.ts
+
+#EXTINF:-1,CINEMA│SPACE
+http://plexonline.club:25461/live/thecrow1098/sinxxx/597.ts
+
+#EXTINF:-1,CINEMA│PARAMOUNT NETWORK  ESP
+http://plexonline.club:25461/live/thecrow1098/sinxxx/607.ts
+
+#EXTINF:-1,CINEMA│GOLDEN
+http://plexonline.club:25461/live/thecrow1098/sinxxx/598.ts
+
+#EXTINF:-1,CINEMA│GOLDEN HD PLUS
+http://plexonline.club:25461/live/thecrow1098/sinxxx/599.ts
+
+#EXTINF:-1,CINEMA│FXM ESP
+http://plexonline.club:25461/live/thecrow1098/sinxxx/610.ts
+
+#EXTINF:-1,CINEMA│EUROCHANNEL
+http://plexonline.club:25461/live/thecrow1098/sinxxx/600.ts
+
+#EXTINF:-1,CINEMA│DE PELICULA PLUS
+http://plexonline.club:25461/live/thecrow1098/sinxxx/596.ts
+
+#EXTINF:-1,CINEMA│DE PELICULA CLASICO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/595.ts
+
+#EXTINF:-1,CINEMA│CINEMAX ESP
+http://plexonline.club:25461/live/thecrow1098/sinxxx/603.ts
+
+#EXTINF:-1,CINEMA│CINELATINO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/605.ts
+
+#EXTINF:-1,CINEMA│AMC ESP
+http://plexonline.club:25461/live/thecrow1098/sinxxx/608.ts
+
+#EXTINF:-1,NIÑOS|Tooncast
+http://plexonline.club:25461/live/thecrow1098/sinxxx/587.ts
+
+#EXTINF:-1,NIÑOS|Nicktoons
+http://plexonline.club:25461/live/thecrow1098/sinxxx/591.ts
+
+#EXTINF:-1,NIÑOS|Nickelodeon
+http://plexonline.club:25461/live/thecrow1098/sinxxx/588.ts
+
+#EXTINF:-1,NIÑOS|Nick Jr
+http://plexonline.club:25461/live/thecrow1098/sinxxx/589.ts
+
+#EXTINF:-1,NIÑOS|Nick 2
+http://plexonline.club:25461/live/thecrow1098/sinxxx/590.ts
+
+#EXTINF:-1,NIÑOS|Nat Geo Kids Mex
+http://plexonline.club:25461/live/thecrow1098/sinxxx/593.ts
+
+#EXTINF:-1,NIÑOS|Nat Geo Kids
+http://plexonline.club:25461/live/thecrow1098/sinxxx/594.ts
+
+#EXTINF:-1,NIÑOS|Disney XD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/586.ts
+
+#EXTINF:-1,NIÑOS|Disney JR
+http://plexonline.club:25461/live/thecrow1098/sinxxx/585.ts
+
+#EXTINF:-1,NIÑOS|Disney
+http://plexonline.club:25461/live/thecrow1098/sinxxx/584.ts
+
+#EXTINF:-1,NIÑOS|Discovery Kids
+http://plexonline.club:25461/live/thecrow1098/sinxxx/583.ts
+
+#EXTINF:-1,NIÑOS|Cartoon Network
+http://plexonline.club:25461/live/thecrow1098/sinxxx/582.ts
+
+#EXTINF:-1,NIÑOS|Boomerang
+http://plexonline.club:25461/live/thecrow1098/sinxxx/592.ts
+
+#EXTINF:-1,NIÑOS|Baby TV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/581.ts
+
+#EXTINF:-1,C.PREMIUM│HBO Subtitulado
+http://plexonline.club:25461/live/thecrow1098/sinxxx/576.ts
+
+#EXTINF:-1,C.PREMIUM│HBO Signature
+http://plexonline.club:25461/live/thecrow1098/sinxxx/577.ts
+
+#EXTINF:-1,C.PREMIUM│HBO plus
+http://plexonline.club:25461/live/thecrow1098/sinxxx/575.ts
+
+#EXTINF:-1,C.PREMIUM│HBO Family
+http://plexonline.club:25461/live/thecrow1098/sinxxx/578.ts
+
+#EXTINF:-1,C.PREMIUM│HBO 2
+http://plexonline.club:25461/live/thecrow1098/sinxxx/579.ts
+
+#EXTINF:-1,C.PREMIUM│HBO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/580.ts
+
+#EXTINF:-1,C.PREMIUM│Fox Premium Series Subtitulado
+http://plexonline.club:25461/live/thecrow1098/sinxxx/573.ts
+
+#EXTINF:-1,C.PREMIUM│Fox Premium Series
+http://plexonline.club:25461/live/thecrow1098/sinxxx/574.ts
+
+#EXTINF:-1,C.PREMIUM│Fox Premium Movies
+http://plexonline.club:25461/live/thecrow1098/sinxxx/572.ts
+
+#EXTINF:-1,C.PREMIUM│Fox Premium Family
+http://plexonline.club:25461/live/thecrow1098/sinxxx/565.ts
+
+#EXTINF:-1,C.PREMIUM│Fox Premium Comedy
+http://plexonline.club:25461/live/thecrow1098/sinxxx/566.ts
+
+#EXTINF:-1,C.PREMIUM│Fox Premium Classics
+http://plexonline.club:25461/live/thecrow1098/sinxxx/567.ts
+
+#EXTINF:-1,C.PREMIUM│Fox Premium Cinema
+http://plexonline.club:25461/live/thecrow1098/sinxxx/569.ts
+
+#EXTINF:-1,C.PREMIUM│Fox Premium Action MX
+http://plexonline.club:25461/live/thecrow1098/sinxxx/570.ts
+
+#EXTINF:-1,C.PREMIUM│Fox Premium Action
+http://plexonline.club:25461/live/thecrow1098/sinxxx/571.ts
+
+#EXTINF:-1,C.PREMIUM│Fox Cinema Subtitulado
+http://plexonline.club:25461/live/thecrow1098/sinxxx/568.ts
+
+#EXTINF:-1,MUNDO & CULTURA│National Geographic Channel
+http://plexonline.club:25461/live/thecrow1098/sinxxx/564.ts
+
+#EXTINF:-1,MUNDO & CULTURA│Nat Geo Wild
+http://plexonline.club:25461/live/thecrow1098/sinxxx/562.ts
+
+#EXTINF:-1,MUNDO & CULTURA│Nat Geo Mex
+http://plexonline.club:25461/live/thecrow1098/sinxxx/563.ts
+
+#EXTINF:-1,MUNDO & CULTURA│Investigation Discovery
+http://plexonline.club:25461/live/thecrow1098/sinxxx/558.ts
+
+#EXTINF:-1,MUNDO & CULTURA│History Channel
+http://plexonline.club:25461/live/thecrow1098/sinxxx/557.ts
+
+#EXTINF:-1,MUNDO & CULTURA│H2
+http://plexonline.club:25461/live/thecrow1098/sinxxx/561.ts
+
+#EXTINF:-1,MUNDO & CULTURA│Discovery World
+http://plexonline.club:25461/live/thecrow1098/sinxxx/555.ts
+
+#EXTINF:-1,MUNDO & CULTURA│Discovery Turbo
+http://plexonline.club:25461/live/thecrow1098/sinxxx/554.ts
+
+#EXTINF:-1,MUNDO & CULTURA│Discovery Theater
+http://plexonline.club:25461/live/thecrow1098/sinxxx/556.ts
+
+#EXTINF:-1,MUNDO & CULTURA│Discovery Science
+http://plexonline.club:25461/live/thecrow1098/sinxxx/553.ts
+
+#EXTINF:-1,MUNDO & CULTURA│Discovery Home and Health
+http://plexonline.club:25461/live/thecrow1098/sinxxx/559.ts
+
+#EXTINF:-1,MUNDO & CULTURA│Discovery Channel
+http://plexonline.club:25461/live/thecrow1098/sinxxx/560.ts
+
+#EXTINF:-1,MX | Las Estrellas
+http://plexonline.club:25461/live/thecrow1098/sinxxx/544.ts
+
+#EXTINF:-1,MX | Imagen TV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/552.ts
+
+#EXTINF:-1,MX | Galatv
+http://plexonline.club:25461/live/thecrow1098/sinxxx/545.ts
+
+#EXTINF:-1,MX | Canal 5
+http://plexonline.club:25461/live/thecrow1098/sinxxx/543.ts
+
+#EXTINF:-1,MX | Azteca Uno
+http://plexonline.club:25461/live/thecrow1098/sinxxx/547.ts
+
+#EXTINF:-1,MX | Azteca 7
+http://plexonline.club:25461/live/thecrow1098/sinxxx/546.ts
+
+#EXTINF:-1,MX | Az Mundo
+http://plexonline.club:25461/live/thecrow1098/sinxxx/549.ts
+
+#EXTINF:-1,MX | Az Corazón
+http://plexonline.club:25461/live/thecrow1098/sinxxx/548.ts
+
+#EXTINF:-1,MX | Az Clic
+http://plexonline.club:25461/live/thecrow1098/sinxxx/550.ts
+
+#EXTINF:-1,MX | Az Cinema
+http://plexonline.club:25461/live/thecrow1098/sinxxx/551.ts
+
+#EXTINF:-1,SERIE│Warner Channel
+http://plexonline.club:25461/live/thecrow1098/sinxxx/533.ts
+
+#EXTINF:-1,SERIE│Universal Channel
+http://plexonline.club:25461/live/thecrow1098/sinxxx/542.ts
+
+#EXTINF:-1,SERIE│Tru TV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/541.ts
+
+#EXTINF:-1,SERIE│TNT Series
+http://plexonline.club:25461/live/thecrow1098/sinxxx/540.ts
+
+#EXTINF:-1,SERIE│Sony
+http://plexonline.club:25461/live/thecrow1098/sinxxx/536.ts
+
+#EXTINF:-1,SERIE│FX
+http://plexonline.club:25461/live/thecrow1098/sinxxx/538.ts
+
+#EXTINF:-1,SERIE│Fox Life Mex
+http://plexonline.club:25461/live/thecrow1098/sinxxx/539.ts
+
+#EXTINF:-1,SERIE│Fox
+http://plexonline.club:25461/live/thecrow1098/sinxxx/537.ts
+
+#EXTINF:-1,SERIE│AXN
+http://plexonline.club:25461/live/thecrow1098/sinxxx/535.ts
+
+#EXTINF:-1,SERIE│A&E
+http://plexonline.club:25461/live/thecrow1098/sinxxx/534.ts
+
+#EXTINF:-1,VETE ALA VERCH
+http://plexonline.club:25461/live/thecrow1098/sinxxx/407.ts
+
+#EXTINF:-1,24/7 LUCHA LIBRE AAA
+http://plexonline.club:25461/live/thecrow1098/sinxxx/408.ts
+
+#EXTINF:-1,USA TNT
+http://plexonline.club:25461/live/thecrow1098/sinxxx/387.ts
+
+#EXTINF:-1,USA A&E
+http://plexonline.club:25461/live/thecrow1098/sinxxx/388.ts
+
+#EXTINF:-1,NAT GEO WILD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/385.ts
+
+#EXTINF:-1,NAT GEO
+http://plexonline.club:25461/live/thecrow1098/sinxxx/384.ts
+
+#EXTINF:-1,Entertainment
+http://plexonline.club:25461/live/thecrow1098/sinxxx/386.ts
+
+#EXTINF:-1,Setanta Sports 2
+http://plexonline.club:25461/live/thecrow1098/sinxxx/382.ts
+
+#EXTINF:-1,setanta Sports 1
+http://plexonline.club:25461/live/thecrow1098/sinxxx/383.ts
+
+#EXTINF:-1,DEPORTES : EURO SPORT 2
+http://plexonline.club:25461/live/thecrow1098/sinxxx/325.ts
+
+#EXTINF:-1,DEPORTES : EURO SPORT 1
+http://plexonline.club:25461/live/thecrow1098/sinxxx/324.ts
+
+#EXTINF:-1,VH1
+http://plexonline.club:25461/live/thecrow1098/sinxxx/43.ts
+
+#EXTINF:-1,PELEAS: FightBox
+http://plexonline.club:25461/live/thecrow1098/sinxxx/30.ts
+
+#EXTINF:-1,PELEAS: fight-time
+http://plexonline.club:25461/live/thecrow1098/sinxxx/4.ts
+
+#EXTINF:-1,ESPAÑA: Paramount Network
+http://plexonline.club:25461/live/thecrow1098/sinxxx/57.ts
+
+#EXTINF:-1,ESPAÑA ; ALCARRIA TV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/51.ts
+
+#EXTINF:-1,ESPAÑA : CANAL 33 Madrid
+http://plexonline.club:25461/live/thecrow1098/sinxxx/53.ts
+
+#EXTINF:-1,ESPAÑA : 101TV MALAGA
+http://plexonline.club:25461/live/thecrow1098/sinxxx/49.ts
+
+#EXTINF:-1,ENTRETENIMIENTO : Food Network
+http://plexonline.club:25461/live/thecrow1098/sinxxx/37.ts
+
+#EXTINF:-1,ENTRETENIMIENTO : DW ESPAÑOL
+http://plexonline.club:25461/live/thecrow1098/sinxxx/59.ts
+
+
+#EXTINF:-1,DEPORTES: Red Bull TV | FHD
+http://plexonline.club:25461/live/thecrow1098/sinxxx/91.ts
+
+#EXTINF:-1,DEPORTES: MLB NETWORK
+http://plexonline.club:25461/live/thecrow1098/sinxxx/32.ts
+
+#EXTINF:-1,DEPORTES :Motorsport TV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/40.ts
+
+#EXTINF:-1,DEPORTES : BT Sport ESPN (New!)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/36.ts
+
+
+#EXTINF:-1,CNN International (Opt-1) (US)
+http://plexonline.club:25461/live/thecrow1098/sinxxx/92.ts
+
+#EXTINF:-1,BRAZIL: ALL SPORT
+http://plexonline.club:25461/live/thecrow1098/sinxxx/45.ts
+
+#EXTINF:-1,BRASIL: In Paradise TV
+http://plexonline.club:25461/live/thecrow1098/sinxxx/47.ts
+
+#EXTINF:-1,ARGENTINA:Telemax
+http://plexonline.club:25461/live/thecrow1098/sinxxx/80.ts
+
+#EXTINF:-1,ARGENTINA: 13 Max |
+http://plexonline.club:25461/live/thecrow1098/sinxxx/77.ts
+
+#EXTINF:-1,Zee Mundo
+http://plexonline.club:25461/live/thecrow1098/sinxxx/63.ts
