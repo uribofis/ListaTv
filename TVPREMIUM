@@ -1,3 +1,5 @@
+
+#EXTM3U
 group,CANALES  24/7
 ext,24/7  Los Pitufos (1080),http://tvpremiumhd.club/lista-gratuita/privada/plus1127/live.php?id=3290
 ext,24/7  SilverHawks,http://tvpremiumhd.club/lista-gratuita/privada/plus1127/live.php?id=3289
@@ -2886,5 +2888,4 @@ ext,USA: White Plains Community Media,http://tvpremiumhd.club/lista-gratuita/pri
 ext,USA: WHOH TV (Geo),http://tvpremiumhd.club/lista-gratuita/privada/on/live.php?id=oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 ext,USA: WSVI-TV,http://tvpremiumhd.club/lista-gratuita/privada/on/live.php?id=dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 ext,USA: WVIT 30 News (Hartford),http://tvpremiumhd.club/lista-gratuita/privada/on/live.php?id=wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
-ext,USA: XCORPS TV,http://tvpremiumhd.club/lista-gratuita/privada/on/live.php?id=vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-
+ext,USA: XCORPS TV,http://tvpremiumhd.club/lista-gratuita/privada/on/live.php?id=vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u
